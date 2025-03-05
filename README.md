@@ -1,6 +1,6 @@
 ## Moisés 👨🏾‍💻
 
-**Desenvolvedor Full Stack**
+**Programação Backend**
 
 Me chamo Moisés Aniceto, tenho 20 anos e sou natural do Distrito Federal.
 Atualmente, tenho me capacitado e profissonalizado com cursos na área de Desenvolvimento, 
