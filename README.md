@@ -6,9 +6,7 @@ Me chamo Moisés Aniceto, tenho 20 anos e sou natural do Distrito Federal.
 Atualmente, tenho me capacitado e profissonalizado com cursos na área de Desenvolvimento, 
 pelas instituições SENAI-DF, SENAI-SP e EBAC. Além disso, recentemente iniciei minha graduação em Análise e desenvolvimento de Sistemas, fortalecendo ainda mais meus conhecimentos, e me preparando cada vez mais para o mercado da área. 👨🏾‍🎓📘💻
 
-Sou amante e explorador do universo da TI e suas ferramentas tecnológicas, mais do que programar,
-meu propósito de vida está alinhado com o papel da TI no mundo, nos dias de hoje: gosto de contribuir positivamente na 
-vida das pessoas. 
+Tenho o constante desejo de me aprimorar como pessoa, profissional e também contribuir positivamente na vida de outras pessoas.
 
 Rede social profissional para contato: (https://www.linkedin.com/in/moises-aniceto-71042a251/)
 
