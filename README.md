@@ -1,41 +1,41 @@
-## Moisés 👨🏾‍💻
+# 👨🏾‍💻 Moisés Aniceto
 
-**Programação Backend**
+### Desenvolvedor Backend | Entusiasta em Dados | Estudante de ADS | Apaixonado por Tecnologia
 
-Me chamo Moisés Aniceto, tenho 20 anos e sou natural do Distrito Federal.
-Atualmente, tenho me capacitado e profissonalizado com cursos na área de Desenvolvimento, 
-pelas instituições SENAI-DF, SENAI-SP e EBAC. Além disso, recentemente iniciei minha graduação em Análise e desenvolvimento de Sistemas, fortalecendo ainda mais meus conhecimentos, e me preparando cada vez mais para o mercado da área. 👨🏾‍🎓📘💻
+Olá! Me chamo **Moisés Aniceto**, tenho 20 anos e sou natural do Distrito Federal.  
+Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e me especializando na área de **Desenvolvimento Backend** e **Ciência de Dados**, com foco em construção de APIs, automações, banco de dados e análise de informações para tomada de decisão.
 
-Tenho o constante desejo de me aprimorar como pessoa, profissional e também contribuir positivamente na vida de outras pessoas.
+Tenho formação complementar pelas instituições **SENAI-DF**, **SENAI-SP** e **EBAC**, onde venho aprofundando meus conhecimentos técnicos por meio de cursos voltados ao desenvolvimento de sistemas, lógica de programação, Python, C# e análise de dados.
 
-Rede social profissional para contato: (https://www.linkedin.com/in/moises-aniceto-71042a251/)
-
-<br/>
+Sou movido pela **curiosidade**, pela **melhoria contínua** e pelo desejo de criar soluções que gerem valor real. Gosto de aprender, ensinar e colaborar em projetos que desafiem meu raciocínio lógico, minha visão analítica e minha criatividade.
 
 ---
 
+## 🛠️ Tecnologias e Ferramentas
 
+- **Linguagens:** Python · C# · JavaScript  
+- **Frameworks e Bibliotecas:** ASP.NET · Streamlit · Django · FastAPI · Pandas · Matplotlib  
+- **Banco de Dados:** SQLite  
+- **Ferramentas:** Git · GitHub · VS Code · Postman  
+- **Áreas de Interesse:** Backend · APIs REST · Automação · Análise de Dados · Relatórios
 
-### 🧰 Linguagens e Ferramentas 
+---
 
+## 🎯 Objetivo Profissional
 
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+Busco oportunidades de **estágio ou posições júnior** nas áreas de **Desenvolvimento Backend** e/ou **Dados**, onde eu possa aplicar meus conhecimentos técnicos, aprender com um time engajado e contribuir com soluções que entreguem valor.
 
-<br /> <br/>
+---
 
+## 🤝 Vamos conversar?
 
+Você pode me encontrar e falar comigo pelo LinkedIn:
 
+🔗 [linkedin.com/in/moises-aniceto-71042a251](https://www.linkedin.com/in/moises-aniceto-71042a251/)
 
+---
 
-
+> “A tecnologia move o mundo, mas pessoas bem preparadas fazem a diferença.” 🚀
 
 
 
