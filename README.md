@@ -1,9 +1,11 @@
 # 👨🏾‍💻 Moisés Aniceto
 
-### Desenvolvedor Backend | Entusiasta em Dados | Estudante de ADS | Apaixonado por Tecnologia
+### Desenvolvedor Backend | Entusiasta em Dados e Cibersegurança | Estudante de ADS | Apaixonado por Tecnologia
 
 Olá! Me chamo **Moisés Aniceto**, tenho 20 anos e sou natural do Distrito Federal.  
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e me especializando na área de **Desenvolvimento Backend** e **Ciência de Dados**, com foco em construção de APIs, automações, banco de dados e análise de informações para tomada de decisão.
+Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e me especializando na área de **Desenvolvimento Backend** e **Dados**, com foco em construção de APIs, automações, banco de dados e análise de informações para tomada de decisão.
+
+Além disso, cultivo um grande interesse pela área de **Cibersegurança**, buscando entender como proteger aplicações, dados e sistemas contra vulnerabilidades, contribuindo para ambientes mais seguros e resilientes.
 
 Tenho formação complementar pelas instituições **SENAI-DF**, **SENAI-SP** e **EBAC**, onde venho aprofundando meus conhecimentos técnicos por meio de cursos voltados ao desenvolvimento de sistemas, lógica de programação, Python, C# e análise de dados.
 
@@ -17,13 +19,13 @@ Sou movido pela **curiosidade**, pela **melhoria contínua** e pelo desejo de cr
 - **Frameworks e Bibliotecas:** ASP.NET · Streamlit · Django · FastAPI · Pandas · Matplotlib  
 - **Banco de Dados:** SQLite  
 - **Ferramentas:** Git · GitHub · VS Code · Postman  
-- **Áreas de Interesse:** Backend · APIs REST · Automação · Análise de Dados · Relatórios
+- **Áreas de Interesse:** Backend · APIs REST · Automação · Análise de Dados · Cibersegurança · Relatórios
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-Busco oportunidades de **estágio ou posições júnior** nas áreas de **Desenvolvimento Backend** e/ou **Dados**, onde eu possa aplicar meus conhecimentos técnicos, aprender com um time engajado e contribuir com soluções que entreguem valor.
+Busco oportunidades de **estágio ou posições júnior** nas áreas de **Desenvolvimento Backend**, **Dados** e **Cibersegurança**, onde eu possa aplicar meus conhecimentos técnicos, aprender com um time engajado e contribuir com soluções que entreguem valor e segurança.
 
 ---
 
@@ -36,6 +38,7 @@ Você pode me encontrar e falar comigo pelo LinkedIn:
 ---
 
 > “A tecnologia move o mundo, mas pessoas bem preparadas fazem a diferença.” 🚀
+
 
 
 
