@@ -37,7 +37,7 @@ Você pode me encontrar e falar comigo pelo LinkedIn:
 
 ---
 
-> “A tecnologia move o mundo, mas pessoas bem preparadas fazem a diferença.” 🚀
+> “A tecnologia move o mundo, mas pessoas interessadas e bem preparadas fazem a diferença.” 💭
 
 
 
