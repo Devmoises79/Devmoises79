@@ -1,6 +1,8 @@
-# 👨🏾‍💻 Moisés Aniceto
+# 👨🏾‍💻 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=00C853&width=750&lines=Bem-vindo(a)!+Sou+Moisés+Aniceto.;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas.;Programação+Backend*)](https://git.io/typing-svg)
 
-### Desenvolvedor Backend | Entusiasta em Dados e Cibersegurança | Estudante de ADS | Apaixonado por Tecnologia
+
+### Desenvolvedor Backend | Estudante de ADS | Apaixonado por Tecnologia
 
 Olá! Me chamo **Moisés Aniceto**, tenho 20 anos e sou natural do Distrito Federal.  
 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e me especializando na área de **Desenvolvimento Backend** e **Dados**, com foco em construção de APIs, automações, banco de dados e análise de informações para tomada de decisão.
@@ -16,7 +18,7 @@ Sou movido pela **curiosidade**, pela **melhoria contínua** e pelo desejo de cr
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Linguagens:** Python · C# · JavaScript  
-- **Frameworks e Bibliotecas:** ASP.NET · Streamlit · Django · FastAPI · Pandas · Matplotlib  
+- **Frameworks e Bibliotecas:** ASP.NET · Streamlit · FastAPI · Pandas · Matplotlib  
 - **Banco de Dados:** SQLite  
 - **Ferramentas:** Git · GitHub · VS Code · Postman  
 - **Áreas de Interesse:** Backend · APIs REST · Automação · Análise de Dados · Cibersegurança · Relatórios
