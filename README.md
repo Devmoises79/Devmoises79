@@ -1,6 +1,8 @@
 # 👨🏾‍💻 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=00C853&width=750&lines=Bem-vindo(a)!+Sou+Moisés+Aniceto.;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas.;Programação+Backend*)](https://git.io/typing-svg)
 
+![Computador animado](https://media.giphy.com/media/3o6Zt5v0XqYzY8q7a4/giphy.gif)
+
 
 ### Desenvolvedor Backend | Estudante de ADS | Apaixonado por Tecnologia
 
