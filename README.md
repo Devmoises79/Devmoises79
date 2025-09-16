@@ -4,7 +4,7 @@
 
 ### Desenvolvedor Backend | Estudante de ADS | Apaixonado por Tecnologia
 
-Olá! Me chamo **Moisés Aniceto**, tenho 20 anos e sou natural do Distrito Federal.  
+Prazer! Me chamo **Moisés Aniceto**, tenho 20 anos e sou natural do Distrito Federal.  
 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e me especializando na área de **Desenvolvimento Backend** e **Dados**, com foco em construção de APIs, automações, banco de dados e análise de informações para tomada de decisão.
 
 Além disso, cultivo um grande interesse pela área de **Cibersegurança**, buscando entender como proteger aplicações, dados e sistemas contra vulnerabilidades, contribuindo para ambientes mais seguros e resilientes.
@@ -15,13 +15,31 @@ Sou movido pela **curiosidade**, pela **melhoria contínua** e pelo desejo de cr
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas  
 
-- **Linguagens:** Python · C# · JavaScript  
-- **Frameworks e Bibliotecas:** ASP.NET · Streamlit · FastAPI · Pandas · Matplotlib  
-- **Banco de Dados:** SQLite  
-- **Ferramentas:** Git · GitHub · VS Code · Postman  
-- **Áreas de Interesse:** Backend · APIs REST · Automação · Análise de Dados · Cibersegurança · Relatórios
+### Linguagens  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+### Frameworks e Bibliotecas  
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)  
+
+### Banco de Dados  
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
+
+### Ferramentas  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+
+### Áreas de Interesse  
+⚡ Backend · 🔄 APIs REST · 🤖 Automação · 📊 Análise de Dados · 🔐 Cibersegurança · 📑 Relatórios  
 
 ---
 
