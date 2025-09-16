@@ -45,7 +45,7 @@ Sou movido pela **curiosidade**, pela **melhoria contínua** e pelo desejo de cr
 
 ## 🎯 Objetivo Profissional
 
-Busco oportunidades de **estágio ou posições júnior** nas áreas de **Desenvolvimento Backend**, **Dados** e **Cibersegurança**, onde eu possa aplicar meus conhecimentos técnicos, aprender com um time engajado e contribuir com soluções que entreguem valor e segurança.
+Busco oportunidades de **estágio ou posições júnior** em **Desenvolvimento Backend**, **Dados** ou **Cibersegurança**, onde eu possa aplicar meus conhecimentos técnicos, aprender com um time engajado e contribuir com soluções que entreguem valor e segurança.
 
 ---
 
