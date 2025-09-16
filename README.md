@@ -38,8 +38,8 @@ Sou movido pela **curiosidade**, pela **melhoria contínua** e pelo desejo de cr
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
-### Áreas de Interesse  
-⚡ Backend · 🔄 APIs REST · 🤖 Automação · 📊 Análise de Dados · 🔐 Cibersegurança · 📑 Relatórios  
+### Áreas de Interesse
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6D00&width=600&lines=Backend;Automação;Análise+de+Dados;Cibersegurança)](https://git.io/typing-svg)
 
 ---
 
