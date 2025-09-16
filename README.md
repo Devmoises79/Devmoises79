@@ -39,7 +39,8 @@ Sou movido pela **curiosidade**, pela **melhoria contínua** e pelo desejo de cr
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 ### Áreas de Interesse
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6D00&width=600&lines=Backend;Automação;Análise+de+Dados;Cibersegurança)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&width=600&lines=⚡+Backend+·+🤖+Automação+·+📊+Análise+de+Dados+·+🔐+Cibersegurança)](https://git.io/typing-svg)
+
 
 ---
 
