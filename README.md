@@ -1,4 +1,4 @@
-# 👨🏾‍💻 
+# 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=00C853&width=750&lines=Bem-vindo(a)!+Sou+Moisés+Aniceto.;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas.;Programação+Backend*)](https://git.io/typing-svg)
 
 ![Pixel Art Computador](https://i.pinimg.com/originals/3d/74/68/3d7468d1bb523674726ba6934a396566.gif)
