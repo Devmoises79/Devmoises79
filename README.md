@@ -47,9 +47,7 @@ Sou movido pela **curiosidade**, pela **melhoria contínua** e pelo desejo de cr
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 
-## 📊 Estatísticas de Uso  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devmoises79&layout=compact&langs_count=6&theme=radical)
 
 ### Áreas de Interesse
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&width=1000&lines=⚡+Backend+·+🤖+Automação+·+📊+Análise+de+Dados+·+🔐+Cibersegurança)](https://git.io/typing-svg)
