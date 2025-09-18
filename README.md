@@ -1,4 +1,4 @@
-
+![Pixel Art Computador](https://i.pinimg.com/originals/3d/74/68/3d7468d1bb523674726ba6934a396566.gif)
 
 ### Desenvolvedor Backend | Estudante de ADS | Apaixonado por Tecnologia
 
