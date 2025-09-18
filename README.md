@@ -59,8 +59,7 @@ Você pode me encontrar e falar comigo pelo LinkedIn:
 
 
 ## 📈 GitHub Stats
-
-![Moisés GitHub stats](https://github-readme-stats-godkingjay.vercel.app/api?username=Devmoises79&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devmoises79&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 
 
 
