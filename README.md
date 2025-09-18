@@ -63,8 +63,6 @@ Busco oportunidades de **estágio ou posições júnior** em **Desenvolvimento B
 ---
 
 
-![Moisés GitHub stats](https://github-readme-stats.vercel.app/api?username=Devmoises79&show_icons=true&theme=radical)
-
 ## Vamos conversar?
 
 Você pode me encontrar e falar comigo pelo LinkedIn:
