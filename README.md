@@ -57,3 +57,7 @@ Você pode me encontrar e falar comigo pelo LinkedIn:
 
 > “A tecnologia move o mundo, mas pessoas interessadas e bem preparadas fazem a diferença.” 💭
 
+## 📊 Estatísticas de Uso  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devmoises79&layout=compact&langs_count=6&theme=radical&hide_border=true)
+
