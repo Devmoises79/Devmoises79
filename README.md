@@ -59,5 +59,6 @@ Você pode me encontrar e falar comigo pelo LinkedIn:
 
 ## 📊 Estatísticas de Uso  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devmoises79&layout=compact&langs_count=6&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Devmoises79&layout=compact&langs_count=6&theme=radical&hide_border=true)
+
 
