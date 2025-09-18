@@ -7,7 +7,7 @@
 
 ### Desenvolvedor Backend | Estudante de ADS | Apaixonado por Tecnologia
 
-Prazer! Me chamo **Moisés Aniceto**, tenho 20 anos e sou natural do Distrito Federal.  
+Prazer! Me chamo **Moisés Aniceto**, tenho 21 anos e sou natural do Distrito Federal.  
 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e me especializando na área de **Desenvolvimento Backend** e **Dados**, com foco em construção de APIs, automações, banco de dados e análise de informações para tomada de decisão.
 
 Além disso, cultivo um grande interesse pela área de **Cibersegurança**, buscando entender como proteger aplicações, dados e sistemas contra vulnerabilidades, contribuindo para ambientes mais seguros e resilientes.
@@ -26,11 +26,16 @@ Sou movido pela **curiosidade**, pela **melhoria contínua** e pelo desejo de cr
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 ### Frameworks e Bibliotecas  
+### Frameworks e Bibliotecas  
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-1E8CBE?style=for-the-badge&logo=python&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)  
+
 
 ### Banco de Dados  
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
@@ -40,6 +45,11 @@ Sou movido pela **curiosidade**, pela **melhoria contínua** e pelo desejo de cr
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+
+
+## 📊 Estatísticas de Uso  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devmoises79&layout=compact&langs_count=6&theme=radical)
 
 ### Áreas de Interesse
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&width=1000&lines=⚡+Backend+·+🤖+Automação+·+📊+Análise+de+Dados+·+🔐+Cibersegurança)](https://git.io/typing-svg)
@@ -51,6 +61,9 @@ Sou movido pela **curiosidade**, pela **melhoria contínua** e pelo desejo de cr
 Busco oportunidades de **estágio ou posições júnior** em **Desenvolvimento Backend**, **Dados** ou **Cibersegurança**, onde eu possa aplicar meus conhecimentos técnicos, aprender com um time engajado e contribuir com soluções que entreguem valor e segurança.
 
 ---
+
+
+![Moisés GitHub stats](https://github-readme-stats.vercel.app/api?username=Devmoises79&show_icons=true&theme=radical)
 
 ## Vamos conversar?
 
