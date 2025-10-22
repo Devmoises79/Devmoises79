@@ -1,66 +1,63 @@
-![Pixel Art Computador](https://i.pinimg.com/originals/3d/74/68/3d7468d1bb523674726ba6934a396566.gif)
+![Pixel Art Computer](https://i.pinimg.com/originals/3d/74/68/3d7468d1bb523674726ba6934a396566.gif)
 
-### Desenvolvedor Backend | Estudante de ADS | Apaixonado por Tecnologia
+### Backend Developer | ADS Student | Tech Enthusiast
 
-Prazer! Me chamo **Moisés Aniceto**, tenho 20 anos e sou natural do Distrito Federal.  
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e me especializando na área de **Desenvolvimento Backend** e **Dados**, com foco em construção de APIs, automações, banco de dados e análise de informações para tomada de decisão.
+Hi! My name is **Moisés Aniceto**, I’m 20 years old and I’m from Brasília, Brazil.  
+I’m currently studying **Analysis and Systems Development** and specializing in **Backend Development** and **Data**, focusing on building APIs, automations, databases, and data analysis for decision-making.
 
-Além disso, cultivo um grande interesse pela área de **Cibersegurança**, buscando entender como proteger aplicações, dados e sistemas contra vulnerabilidades, contribuindo para ambientes mais seguros e resilientes.
+I also have a strong interest in **Cybersecurity**, learning how to protect applications, data, and systems from vulnerabilities and contributing to more secure and resilient environments.
 
-Tenho formação complementar pelas instituições **SENAI-DF**, **SENAI-SP** e **EBAC**, onde venho aprofundando meus conhecimentos técnicos por meio de cursos voltados ao desenvolvimento de sistemas, lógica de programação, Python, C# e análise de dados.
+I have been deepening my technical knowledge through courses in system development, programming logic, Python, C#, and data analysis.
 
-Sou movido pela **curiosidade**, pela **melhoria contínua** e pelo desejo de criar soluções que gerem valor real. Gosto de aprender, ensinar e colaborar em projetos que desafiem meu raciocínio lógico, minha visão analítica e minha criatividade.
+I’m driven by **curiosity**, **continuous improvement**, and the desire to create solutions that deliver real value. I enjoy learning, teaching, and collaborating on projects that challenge my logical thinking, analytical skills, and creativity.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas  
+## 🛠️ Technologies and Tools  
 
-### Linguagens  
+### Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-### Frameworks e Bibliotecas  
+### Frameworks and Libraries  
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)  
 
-### Banco de Dados  
+### Databases  
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
 
-### Ferramentas  
+### Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
-### Áreas de Interesse
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&width=1000&lines=⚡+Backend+·+🤖+Automação+·+📊+Análise+de+Dados+·+🔐+Cibersegurança)](https://git.io/typing-svg)
+### Areas of Interest
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&width=1000&lines=⚡+Backend+·+🤖+Automation+·+📊+Data+Analysis+·+🔐+Cybersecurity)](https://git.io/typing-svg)
 
 ---
 
-## Objetivo Profissional
+## Professional Goal
 
-Busco oportunidades de **estágio ou posições júnior** em **Desenvolvimento Backend**, **Dados** ou **Cibersegurança**, onde eu possa aplicar meus conhecimentos técnicos, aprender com um time engajado e contribuir com soluções que entreguem valor e segurança.
+I’m seeking **internship or junior-level opportunities** in **Backend Development**, **Data**, or **Cybersecurity**, where I can apply my technical skills, learn from an engaged team, and contribute with solutions that deliver value and security.
 
 ---
 
-## Vamos conversar?
+## Let’s Connect
 
-Você pode me encontrar e falar comigo pelo LinkedIn:
+You can find me and get in touch on LinkedIn:  
 
 🔗 [linkedin.com/in/moises-aniceto-71042a251](https://www.linkedin.com/in/moises-aniceto-71042a251/)
 
 ---
 
-> “A tecnologia move o mundo, mas pessoas interessadas e bem preparadas fazem a diferença.” 💭
+> “Technology drives the world, but interested and well-prepared people make the difference.” 💭
 
-
+---
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devmoises79&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
-
-
-
