@@ -59,4 +59,5 @@ You can find me and get in touch on LinkedIn:
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devmoises79&layout=compact&langs_count=6&theme=highcontrast)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devmoises79&layout=compact&theme=transparent&hide_border=true)
+
