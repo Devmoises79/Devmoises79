@@ -47,6 +47,7 @@ I’m driven by **curiosity**, **continuous improvement**, and the desire to cre
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ### Areas of Interest
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&width=1000&lines=⚡+Backend+·+🤖+Automation+·+📊+Data+Analysis+·+🔐+Cybersecurity)](https://git.io/typing-svg)
