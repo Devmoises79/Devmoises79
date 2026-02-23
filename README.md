@@ -84,3 +84,17 @@ https://www.linkedin.com/in/mois%C3%A9s-aniceto-71042a251/
 ---
 
 > Technology moves the world, but well-prepared people build it.
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Devmoises79&layout=compact&theme=github_dark&hide_border=true" 
+    media="(prefers-color-scheme: dark)" 
+  />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Devmoises79&layout=compact&theme=default&hide_border=true" 
+    media="(prefers-color-scheme: light)" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devmoises79&layout=compact&theme=default&hide_border=true" 
+  />
+</picture>
