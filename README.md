@@ -78,9 +78,7 @@ https://www.linkedin.com/in/moises-aniceto-71042a251/
 
 ---
 
-## 📊 Most Used Languages
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Devmoises79&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devmoises79&layout=compact&theme=default)
 
 ---
 
