@@ -80,7 +80,7 @@ https://www.linkedin.com/in/moises-aniceto-71042a251/
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devmoises79&layout=compact&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devmoises79&layout=compact&theme=transparent&hide_border=true&langs_count=6&exclude_repo=repo-name)
 
 ---
 
