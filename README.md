@@ -78,7 +78,7 @@ I am seeking internship or junior-level opportunities in Backend Engineering, Da
 https://www.linkedin.com/in/mois%C3%A9s-aniceto-71042a251/
 
 ---
-## 📊 Most Used Languages
+## Most Used Languages
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devmoises79&theme=default)
 ---
