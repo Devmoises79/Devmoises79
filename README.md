@@ -66,7 +66,7 @@ Focused on building reliable, secure, and production-ready backend solutions whi
 
 ---
 
-## 🎯 Career Objective
+## Career Objective
 
 I am seeking internship or junior-level opportunities in Backend Engineering, Data, or Security-focused roles where I can contribute technically, learn from experienced teams, and grow into high-impact engineering responsibilities.
 
