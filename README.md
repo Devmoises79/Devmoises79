@@ -77,9 +77,7 @@ I am seeking internship or junior-level opportunities in Backend Engineering, Da
 https://www.linkedin.com/in/moises-aniceto-71042a251/
 
 ---
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devmoises79&layout=compact&theme=default)
-
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Devmoises79&layout=compact&hide_border=true)
 ---
 
 > Technology moves the world, but well-prepared people build it.
