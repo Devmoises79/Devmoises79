@@ -75,7 +75,7 @@ I am seeking internship or junior-level opportunities in Backend Engineering, Da
 ## 🤝 Let’s Connect
 
 🔗 LinkedIn:  
-https://www.linkedin.com/in/moises-aniceto-71042a251/
+https://www.linkedin.com/in/mois%C3%A9s-aniceto-71042a251/
 
 ---
 ## 📊 Most Used Languages
