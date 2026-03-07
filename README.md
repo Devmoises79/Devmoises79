@@ -2,7 +2,7 @@
 
 # Moisés Aniceto
 
-### Backend Developer | Analysis & Systems Development Student 
+### Backend Developer | Software Development Student
 
 Backend-focused developer building scalable APIs and structured backend systems with strong foundations in object oriented programming and distributed systems concepts.
 
