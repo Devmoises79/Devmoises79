@@ -21,6 +21,7 @@ Currently deepening knowledge in:
 - DevOps principles  
 - Secure coding practices  
 - System design fundamentals  
+- Event-driven architecture and messaging systems  
 
 Focused on building reliable, secure, and production-ready backend solutions while continuously improving technical depth and architectural thinking.
 
@@ -39,6 +40,9 @@ Focused on building reliable, secure, and production-ready backend solutions whi
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Messaging & Distributed Systems
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ### Automation & Data
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -78,9 +82,11 @@ I am seeking internship or junior-level opportunities in Backend Engineering, Da
 https://www.linkedin.com/in/mois%C3%A9s-aniceto-71042a251/
 
 ---
+
 ## Most Used Languages
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devmoises79&theme=default)
+
 ---
 
 > Technology moves the world, but well-prepared people build it.
