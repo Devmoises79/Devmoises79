@@ -4,7 +4,7 @@
 
 ### Backend Developer | Software Development Student
 
-Backend-focused developer building scalable APIs and structured backend systems with strong foundations in object oriented programming and distributed systems concepts.
+Backend-focused developer building RESTful APIs and structured backend systems using Python, C#, and JavaScript. Strong foundation in object-oriented programming, distributed systems concepts, database modeling, and clean architecture, with emphasis on maintainable, secure, and well-structured backend solutions.
 
 I develop RESTful APIs using Python with FastAPI and Flask, C# with ASP.NET Core, and Node.js with Express. My work involves system integration, clean architecture principles, database modeling, and maintainable service design.
 
