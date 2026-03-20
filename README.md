@@ -27,6 +27,15 @@ Focused on building reliable, secure, and production-ready backend solutions whi
 
 ---
 
+## 📜 Certifications (IT & Professional)
+
+| Certification                                                                 | Institution  |
+|------------------------------------------------------------------------------|-------------|
+| ISO/IEC 27001:2022 Information Security Associate™                          | SkillFront  |
+| ISO/IEC 20000 IT Service Management Associate™                              | SkillFront  |
+| Certified Associate in Scrum Fundamentals (CASF)                            | SkillFront  |
+| Foundations of Business and Entrepreneurship™                               | SkillFront  |
+
 ## 🛠️ Technologies and Tools
 
 ### Languages
