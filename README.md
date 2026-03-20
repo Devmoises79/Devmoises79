@@ -4,26 +4,25 @@
 
 ### Backend Developer | Software Development Student
 
-Backend-focused developer building RESTful APIs and structured backend systems using Python, C#, and JavaScript. Strong foundation in object-oriented programming, distributed systems concepts, database modeling, and clean architecture, with emphasis on maintainable, secure, and well-structured backend solutions.
+Backend-focused developer building RESTful APIs and backend systems using Python, C#, and JavaScript. Strong foundation in object-oriented programming, database modeling, distributed systems concepts, and clean architecture, with emphasis on maintainable, secure, and well-structured solutions.
 
-I develop RESTful APIs using Python with FastAPI and Flask, C# with ASP.NET Core, and Node.js with Express. My work involves system integration, clean architecture principles, database modeling, and maintainable service design.
+Experience developing APIs with FastAPI, Flask, ASP.NET Core, and Node.js (Express), focusing on system integration, service design, and code organization.
 
-I work with relational databases such as PostgreSQL, MySQL, and SQLite, applying ORM tools like SQLAlchemy and focusing on data integrity, performance, and structured data modeling.
+Proficient with relational databases (PostgreSQL, MySQL, SQLite) and ORM tools like SQLAlchemy, prioritizing data integrity, performance, and structured data modeling.
 
-I also have foundational knowledge in cybersecurity and networking, using tools such as Wireshark, Nmap, Burp Suite, and VirtualBox in controlled lab environments. This strengthens my understanding of secure API development, vulnerability awareness, and resilient backend systems.
+Foundational knowledge in cybersecurity and networking, using tools such as Wireshark, Nmap, Burp Suite, and VirtualBox in controlled environments, with focus on secure API development and vulnerability awareness.
 
-Familiar with Git workflows, pull requests, structured branching strategies, and CI/CD fundamentals using GitHub Actions.
+Familiar with Git workflows, pull requests, branching strategies, and CI/CD fundamentals using GitHub Actions.
 
 Currently deepening knowledge in:
-
-- Cloud computing fundamentals  
+- Cloud computing  
 - Microservices architecture  
-- DevOps principles  
-- Secure coding practices  
-- System design fundamentals  
+- DevOps practices  
+- Secure coding  
+- System design  
 - Event-driven architecture and messaging systems  
 
-Focused on building reliable, secure, and production-ready backend solutions while continuously improving technical depth and architectural thinking.
+Focused on building reliable, secure, and production-ready backend solutions while continuously improving technical and architectural skills.
 
 ---
 
