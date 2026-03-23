@@ -1,100 +1,180 @@
-![Pixel Art Computer](https://i.pinimg.com/originals/3d/74/68/3d7468d1bb523674726ba6934a396566.gif)
+<div align="center">
 
 # Moisés Aniceto
 
-### Backend Developer | Software Development Student
+### Backend Engineer | API Design | Distributed Systems | Secure Software
 
-Backend-focused developer building RESTful APIs and backend systems using Python, C#, and JavaScript. Strong foundation in object-oriented programming, database modeling, distributed systems concepts, and clean architecture, with emphasis on maintainable, secure, and well-structured solutions.
-
-Experience developing APIs with FastAPI, Flask, ASP.NET Core, and Node.js (Express), focusing on system integration, service design, and code organization.
-
-Proficient with relational databases (PostgreSQL, MySQL, SQLite) and ORM tools like SQLAlchemy, prioritizing data integrity, performance, and structured data modeling.
-
-Foundational knowledge in cybersecurity and networking, using tools such as Wireshark, Nmap, Burp Suite, and VirtualBox in controlled environments, with focus on secure API development and vulnerability awareness.
-
-Familiar with Git workflows, pull requests, branching strategies, and CI/CD fundamentals using GitHub Actions.
-
-Currently deepening knowledge in:
-- Cloud computing  
-- Microservices architecture  
-- DevOps practices  
-- Secure coding  
-- System design  
-- Event-driven architecture and messaging systems  
-
-Focused on building reliable, secure, and production-ready backend solutions while continuously improving technical and architectural skills.
+</div>
 
 ---
 
-## 📜 Certifications (IT & Professional)
+## 👨‍💻 Professional Summary
 
-| Certification                                                                 | Institution  |
-|------------------------------------------------------------------------------|-------------|
-| ISO/IEC 27001:2022 Information Security Associate™                          | SkillFront  |
-| ISO/IEC 20000 IT Service Management Associate™                              | SkillFront  |
-| Certified Associate in Scrum Fundamentals (CASF)                            | SkillFront  |
-| Foundations of Business and Entrepreneurship™                               | SkillFront  |
+Backend-focused developer with strong foundations in **API design, system integration, and software architecture**.
 
-## 🛠️ Technologies and Tools
+Experience building **RESTful services** using Python (FastAPI, Flask), C# (ASP.NET Core), and Node.js, with emphasis on **clean code, maintainability, and security**.
+
+Comfortable working with **relational databases**, data modeling, and backend structures that prioritize **performance, scalability, and reliability**.
+
+Knowledge of **networking and cybersecurity fundamentals**, applying secure development practices and understanding system behavior beyond code level.
+
+Currently focused on evolving in:
+
+- Distributed systems  
+- Microservices architecture  
+- Event-driven systems  
+- Cloud and DevOps practices  
+- Secure backend engineering  
+
+---
+
+## 🧠 Core Competencies
+
+- Backend Architecture & API Design  
+- System Integration & Service Communication  
+- Clean Architecture & SOLID Principles  
+- Data Modeling & Persistence  
+- Secure Coding Practices  
+- Debugging & Problem Solving  
+
+---
+
+## ⚙️ Technical Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- Python  
+- C#  
+- JavaScript  
 
 ### Backend & Frameworks
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Messaging & Distributed Systems
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-### Automation & Data
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge&logo=python&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC0000?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+- FastAPI  
+- Flask  
+- ASP.NET Core  
+- Node.js (Express)
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+- PostgreSQL  
+- MySQL  
+- SQLite  
 
-### Version Control & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### Data & Automation
+- SQLAlchemy  
+- Pandas  
+- Selenium  
+
+### Messaging & Distributed Systems
+- RabbitMQ  
+
+### DevOps & Versioning
+- Git  
+- GitHub  
+- GitHub Actions  
 
 ### Cybersecurity & Networking
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=gnometerminal&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
+- Nmap  
+- Wireshark  
+- Burp Suite  
+- VirtualBox  
 
 ---
 
-## Career Objective
+## 🚀 Selected Projects
 
-I am seeking internship or junior-level opportunities in Backend Engineering, Data, or Security-focused roles where I can contribute technically, learn from experienced teams, and grow into high-impact engineering responsibilities.
+### 🔹 Contract Management API  
+**Stack:** Python | FastAPI | PostgreSQL  
+
+Backend system for managing contracts with structured data persistence and clean architecture principles.
+
+**Highlights:**
+- RESTful API design  
+- CRUD operations with validation  
+- Database integration and modeling  
+- Organized and scalable code structure  
+
+🔗 https://github.com/Devmoises79/System-Contratos  
 
 ---
 
-## 🤝 Let’s Connect
+### 🔹 Messaging System with RabbitMQ  
+**Stack:** Python | RabbitMQ  
 
-🔗 LinkedIn:  
+Simulation of asynchronous communication between services using message queues.
+
+**Highlights:**
+- Producer / Consumer architecture  
+- Queue-based communication  
+- Introduction to distributed systems concepts  
+
+🔗 https://github.com/Devmoises79/PrimeiraFilaRabbit  
+
+---
+
+### 🔹 REST API with Node.js  
+**Stack:** Node.js | Express  
+
+Backend service exposing REST endpoints with structured routing.
+
+**Highlights:**
+- Route organization  
+- API structure design  
+- Foundation for scalable backend services  
+
+🔗 https://github.com/Devmoises79/Server-JS  
+
+---
+
+## 📐 Engineering Approach
+
+I approach backend development with a focus on:
+
+- Writing **clear, maintainable, and testable code**  
+- Designing systems with **separation of concerns**  
+- Ensuring **data consistency and integrity**  
+- Building services that are **secure by design**  
+- Continuously analyzing and improving system performance  
+
+---
+
+## 📊 GitHub Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Devmoises79&show_icons=true&theme=default" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devmoises79&layout=compact&theme=default" height="180"/>
+
+</div>
+
+---
+
+## 🎯 Career Objective
+
+Seeking opportunities as a **Backend Engineering Intern or Junior Backend Developer**, where I can:
+
+- Contribute to real-world systems  
+- Work alongside experienced engineers  
+- Deepen knowledge in architecture, scalability, and security  
+- Grow into high-impact engineering roles  
+
+---
+
+## 📜 Certifications
+
+- ISO/IEC 27001:2022 Information Security Associate™  
+- ISO/IEC 20000 IT Service Management Associate™  
+- Certified Associate in Scrum Fundamentals (CASF)  
+- Foundations of Business and Entrepreneurship™  
+
+---
+
+## 🤝 Contact
+
+**LinkedIn:**  
 https://www.linkedin.com/in/mois%C3%A9s-aniceto-71042a251/
 
 ---
 
-## Most Used Languages
+<div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devmoises79&theme=default)
+### “Well-structured systems are not only functional — they are secure, scalable, and sustainable.”
 
----
-
-> Technology moves the world, but well-prepared people build it.
+</div>
