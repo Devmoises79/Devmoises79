@@ -10,13 +10,13 @@
 
 ## 👨‍💻 Professional Summary
 
-Backend-focused developer with strong foundations in **API design, system integration, and software architecture**.
+Backend-focused developer with strong foundations in API design, system integration, and software architecture.
 
-Experience building **RESTful services** using Python (FastAPI, Flask), C# (ASP.NET Core), and Node.js, with emphasis on **clean code, maintainability, and security**.
+Experience building RESTful services using Python (FastAPI, Flask), C# (ASP.NET Core), and Node.js, with emphasis on clean code, maintainability, and security.
 
-Comfortable working with **relational databases**, data modeling, and backend structures that prioritize **performance, scalability, and reliability**.
+Comfortable working with relational databases, data modeling, and backend structures that prioritize performance, scalability, and reliability.
 
-Knowledge of **networking and cybersecurity fundamentals**, applying secure development practices and understanding system behavior beyond code level.
+Knowledge of networking and cybersecurity fundamentals, applying secure development practices and understanding system behavior beyond code level.
 
 Currently focused on evolving in:
 
