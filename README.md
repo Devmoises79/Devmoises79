@@ -170,7 +170,7 @@ Seeking opportunities as a **Backend Engineering Intern or Junior Backend Develo
 ## 🤝 Contact
 
 **LinkedIn:**  
-https://www.linkedin.com/in/mois%C3%A9s-aniceto-71042a251/
+https: www.linkedin.com/in/moisés-aniceto-71042a251
 
 ---
 
