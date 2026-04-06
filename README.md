@@ -139,8 +139,7 @@ I approach backend development with a focus on:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Devmoises79&show_icons=true&theme=default&cache_seconds=86400" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devmoises79&layout=compact&theme=default&cache_seconds=86400" height="180"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devmoises79&theme=github-light" />
 
 </div>
 
