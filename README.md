@@ -123,6 +123,18 @@ Backend service exposing REST endpoints with structured routing.
 
 ---
 
+## 📊 GitHub Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devmoises79&theme=github" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devmoises79&theme=github" height="180"/>
+<img src="https://streak-stats.demolab.com?user=Devmoises79&theme=default" height="180"/>
+
+</div>
+
+---
+
 ## 📐 Engineering Approach
 
 I approach backend development with a focus on:
@@ -135,17 +147,7 @@ I approach backend development with a focus on:
 
 ---
 
-## 📊 GitHub Metrics
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devmoises79&theme=github" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devmoises79&theme=github" height="180"/>
-<img src="https://streak-stats.demolab.com?user=Devmoises79&theme=default" height="180"/>
-
-</div>
-
----
 
 ## 🎯 Career Objective
 
