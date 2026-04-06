@@ -147,6 +147,16 @@ I approach backend development with a focus on:
 
 ---
 
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devmoises79&theme=github-light" />
+
+</div>
+
+--
+
 ## 🎯 Career Objective
 
 Seeking opportunities as a **Backend Engineering Intern or Junior Backend Developer**, where I can:
