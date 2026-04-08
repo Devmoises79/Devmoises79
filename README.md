@@ -114,7 +114,7 @@ class CareerObjective:
     def __str__(self):
         return f"Seeking {self.role} to {self.mission}"
 
-print(CareerObjective())eking a Backend Engineering Intern or Junior Backend Developer role to contribute to real-world systems, deepen knowledge in scalable architectures, and grow alongside experienced engineers.
+print(CareerObjective())
 ```
 
 ## 📜 Certifications
