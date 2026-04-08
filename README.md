@@ -121,4 +121,4 @@ def engineering_mindset():
 - LinkedIn: www.linkedin.com/in/moisés-aniceto-71042a251
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=5000&pause=1000&color=111111&center=false&vCenter=true&multiline=true&width=800&height=120&lines=def+build_systems():;++++message+%3D+(%22Well-structured+systems+are+built+through+%22+%22continuous+learning+and+deliberate+engineering.%22);++++return+message;print(build_systems())" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=5000&pause=1000&color=111111&center=false&vCenter=true&multiline=false&width=800&height=120&lines=Well-structured+systems+come+from+continuous+learning+and+careful+engineering." />
