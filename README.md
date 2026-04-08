@@ -122,6 +122,6 @@ def engineering_mindset():
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=111111&center=true&vCenter=true&multiline=true&width=900&height=140&lines=def+build_systems():;++++return+%22Well-structured+systems+are+built+through+continuous+learning+and+deliberate+engineering.%22" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2800&pause=900&color=111111&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=class+EngineerMindset:;++++def+build_systems(self):;++++++++return+(;++++++++++++%22Well-structured+systems+are+built%22;++++++++++++%22through+continuous+learning%22;++++++++++++%22and+deliberate+engineering.%22;++++++++);;mindset+=+EngineerMindset();;mindset.build_systems()" />
 
 </div>
