@@ -105,8 +105,17 @@ def engineering_mindset():
 ```
 
 # 🎯 Career Objective
+```python
+class CareerObjective:
+    def __init__(self):
+        self.role = "Backend Engineering Intern / Junior Backend Developer"
+        self.mission = "build real-world systems, master scalable architectures, evolve with experts"
 
-- Seeking a Backend Engineering Intern or Junior Backend Developer role to contribute to real-world systems, deepen knowledge in scalable architectures, and grow alongside experienced engineers.
+    def __str__(self):
+        return f"Seeking {self.role} to {self.mission}"
+
+print(CareerObjective())eking a Backend Engineering Intern or Junior Backend Developer role to contribute to real-world systems, deepen knowledge in scalable architectures, and grow alongside experienced engineers.
+```
 
 ## 📜 Certifications
 
