@@ -120,6 +120,7 @@ def engineering_mindset():
 # 🤝 Contact
 - LinkedIn: www.linkedin.com/in/moisés-aniceto-71042a251
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=900&color=111111&center=true&vCenter=true&multiline=true&width=900&height=180&lines=def+__init__(self):;++++self.name+%3D+%22Mois%C3%A9s+Aniceto%22;++++self.role+%3D+%22Backend+Engineer%22;++++self.focus+%3D+%5B%22API+Design%22%2C+%22Distributed+Systems%22%2C+%22Secure+Software%22%5D;++++self.languages+%3D+%5B%22Python%22%2C+%22C%23%22%2C+%22JavaScript%22%5D;++++self.frameworks+%3D+%5B%22FastAPI%22%2C+%22Flask%22%2C+%22ASP.NET+Core%22%2C+%22Node.js+(Express)%22%5D;++++self.databases+%3D+%5B%22PostgreSQL%22%2C+%22MySQL%22%2C+%22SQLite%22%5D;++++self.tools+%3D+%5B%22RabbitMQ%22%2C+%22SQLAlchemy%22%2C+%22Pandas%22%2C+%22Selenium%22%5D;++++self.devops+%3D+%5B%22Git%22%2C+%22GitHub%22%2C+%22GitHub+Actions%22%5D;++++self.security+%3D+%5B%22Nmap%22%2C+%22Wireshark%22%2C+%22Burp+Suite%22%5D;++++self.current_focus+%3D+%5B%22Distributed+Systems%22%2C+%22Microservices+Architecture%22%2C+%22Event-Driven+Systems%22%2C+%22Cloud+%26+DevOps%22%2C+%22Secure+Backend+Engineering%22%5D" />
+
+<div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=900&color=111111&center=true&vCenter=true&multiline=true&width=900&height=120&lines=def+build_systems():;++++message+%3D+%22Well-structured+systems+are+built+through+continuous+learning+and+deliberate+engineering.%22;++++return+message" />
 </div>
