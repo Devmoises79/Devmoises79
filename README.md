@@ -29,44 +29,43 @@ class BackendEngineer:
 me = BackendEngineer()
 me.say_hi()
 ```
---
+
 # 👨‍💻 About Me
 
 Backend developer focused on API design, system integration, and scalable architectures.
 Experience building secure and maintainable services with Python, C#, and Node.js.
 Currently evolving in distributed systems, microservices, and event-driven architectures.
---
 
 # ⚙️ Tech Stack
 ```python
-Languages:        Python | C# | JavaScript  
-Frameworks:       FastAPI | Flask | ASP.NET Core | Node.js  
-Databases:        PostgreSQL | MySQL | SQLite  
-Tools & Data:     RabbitMQ | SQLAlchemy | Pandas | Selenium  
-DevOps:           Git | GitHub | GitHub Actions  
-Security:         Nmap | Wireshark | Burp Suite
+Languages: Python | C# | JavaScript
+Frameworks: FastAPI | Flask | ASP.NET Core | Node.js
+Databases: PostgreSQL | MySQL | SQLite
+Tools & Data: RabbitMQ | SQLAlchemy | Pandas | Selenium
+DevOps: Git | GitHub | GitHub Actions
+Security: Nmap | Wireshark | Burp Suite
 ```
---
 
 ## Projects
-
-# 🔹 Contract Management API
-
 ```python
+🔹 Contract Management API
+
 Python | FastAPI | PostgreSQL
+
 RESTful API for contract management with structured data modeling and clean architecture.
 
-- CRUD with validation
-- Scalable structure
-- Database integration
+CRUD with validation
+Scalable structure
+Database integration
 
 🔗 https://github.com/Devmoises79/System-Contratos
 ```
--- 
-# 🔹 Messaging System with RabbitMQ
 
 ```python
+🔹 Messaging System with RabbitMQ
+
 Python | RabbitMQ
+
 Simulation of asynchronous communication using message queues.
 
 - Producer / Consumer model
@@ -75,53 +74,45 @@ Simulation of asynchronous communication using message queues.
 
 🔗 https://github.com/Devmoises79/PrimeiraFilaRabbit
 ```
---
 
-# 🔹 REST API with Node.js
-```python
+```Python
+🔹 REST API with Node.js
+
 Node.js | Express
+
 Structured backend service exposing REST endpoints.
 
-Organized routing
-Scalable API structure
+- Organized routing
+- Scalable API structure
 
 🔗 https://github.com/Devmoises79/Server-JS
 ```
---
 
 # 📊 GitHub Metrics
 <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devmoises79&theme=github" height="180"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devmoises79&theme=github" height="180"/> <img src="https://streak-stats.demolab.com?user=Devmoises79&theme=default" height="180"/> </div>
---
 
-# 🧠 Engineering Mindset
-- Clean, maintainable, and testable code
-- Strong separation of concerns
-- Focus on scalability and performance
-- Security as a core principle
-- Continuous improvement in system design
---
+## 🧠 Engineering Mindset
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=FFFFFF&multiline=true&width=700&height=120&lines=Clean%2C+maintainable%2C+and+testable+code;Strong+separation+of+concerns;Focus+on+scalability+and+performance;Security+as+a+core+principle;Continuous+improvement+in+system+design" />
+</p>
 
 # 🎯 Career Objective
 
-Seeking a Backend Engineering Intern or Junior Backend Developer role to contribute to real-world systems, deepen knowledge in scalable architectures, and grow alongside experienced engineers.
---
+- Seeking a Backend Engineering Intern or Junior Backend Developer role to contribute to real-world systems, deepen knowledge in scalable architectures, and grow alongside experienced engineers.
 
-# 📜 Certifications
+## 📜 Certifications
+
 ```bash
-ISO/IEC 27001:2022 Information Security Associate™
-ISO/IEC 20000 IT Service Management Associate™
-Certified Associate in Scrum Fundamentals (CASF)
-Foundations of Business and Entrepreneurship™
+[✔] ISO/IEC 27001:2022 Information Security Associate™
+[✔] ISO/IEC 20000 IT Service Management Associate™
+[✔] Certified Associate in Scrum Fundamentals (CASF)
+[✔] Foundations of Business and Entrepreneurship™
 ```
---
 
 # 🤝 Contact
-
 - LinkedIn: www.linkedin.com/in/moisés-aniceto-71042a251
---
 
-
-```
 <div align="center">
 “Well-structured systems are built through continuous learning and deliberate engineering.”
 </div> ```
