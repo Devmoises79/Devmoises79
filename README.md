@@ -120,7 +120,7 @@ def engineering_mindset():
 # 🤝 Contact
 - LinkedIn: www.linkedin.com/in/moisés-aniceto-71042a251
 
-```
+
 <div align="center">
 “Well-structured systems are built through continuous learning and deliberate engineering.”
-</div> ```
+</div> 
