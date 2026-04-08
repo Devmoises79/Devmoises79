@@ -1,182 +1,118 @@
+# Hello World! 👋 I'm Moisés
+
+```python
+class BackendEngineer:
+    def __init__(self):
+        self.name = "Moisés Aniceto"
+        self.role = "Backend Engineer"
+        self.focus = ["API Design", "Distributed Systems", "Secure Software"]
+        
+        self.languages = ["Python", "C#", "JavaScript"]
+        self.frameworks = ["FastAPI", "Flask", "ASP.NET Core", "Node.js (Express)"]
+        self.databases = ["PostgreSQL", "MySQL", "SQLite"]
+        
+        self.tools = ["RabbitMQ", "SQLAlchemy", "Pandas", "Selenium"]
+        self.devops = ["Git", "GitHub", "GitHub Actions"]
+        self.security = ["Nmap", "Wireshark", "Burp Suite"]
+        
+        self.current_focus = [
+            "Distributed Systems",
+            "Microservices Architecture",
+            "Event-Driven Systems",
+            "Cloud & DevOps",
+            "Secure Backend Engineering"
+        ]
+
+    def say_hi(self):
+        print("Driven by continuous growth — improving code, systems, and engineering mindset every day.")
+
+me = BackendEngineer()
+me.say_hi()
+```
+--
+# 👨‍💻 About Me
+
+Backend developer focused on API design, system integration, and scalable architectures.
+Experience building secure and maintainable services with Python, C#, and Node.js.
+Currently evolving in distributed systems, microservices, and event-driven architectures.
+--
+
+# ⚙️ Tech Stack
+Languages:        Python | C# | JavaScript  
+Frameworks:       FastAPI | Flask | ASP.NET Core | Node.js  
+Databases:        PostgreSQL | MySQL | SQLite  
+Tools & Data:     RabbitMQ | SQLAlchemy | Pandas | Selenium  
+DevOps:           Git | GitHub | GitHub Actions  
+Security:         Nmap | Wireshark | Burp Suite  
+--
+
+# Projects
+🔹 Contract Management API
+
+Python | FastAPI | PostgreSQL
+RESTful API for contract management with structured data modeling and clean architecture.
+
+CRUD with validation
+Scalable structure
+Database integration
+
+🔗 https://github.com/Devmoises79/System-Contratos
+
+🔹 Messaging System with RabbitMQ
+
+Python | RabbitMQ
+Simulation of asynchronous communication using message queues.
+
+Producer / Consumer model
+Event-driven concepts
+Distributed systems foundation
+
+🔗 https://github.com/Devmoises79/PrimeiraFilaRabbit
+
+🔹 REST API with Node.js
+
+Node.js | Express
+Structured backend service exposing REST endpoints.
+
+Organized routing
+Scalable API structure
+
+🔗 https://github.com/Devmoises79/Server-JS
+--
+
+# 📊 GitHub Metrics
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devmoises79&theme=github" height="180"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devmoises79&theme=github" height="180"/> <img src="https://streak-stats.demolab.com?user=Devmoises79&theme=default" height="180"/> </div>
+--
+
+# 🧠 Engineering Mindset
+- Clean, maintainable, and testable code
+- Strong separation of concerns
+- Focus on scalability and performance
+- Security as a core principle
+- Continuous improvement in system design
+--
+
+# 🎯 Career Objective
+
+Seeking a Backend Engineering Intern or Junior Backend Developer role to contribute to real-world systems, deepen knowledge in scalable architectures, and grow alongside experienced engineers.
+--
+
+# 📜 Certifications
+```bash
+ISO/IEC 27001:2022 Information Security Associate™
+ISO/IEC 20000 IT Service Management Associate™
+Certified Associate in Scrum Fundamentals (CASF)
+Foundations of Business and Entrepreneurship™
+```
+--
+
+# 🤝 Contact
+
+- LinkedIn: www.linkedin.com/in/moisés-aniceto-71042a251
+--
+
+
+```
 <div align="center">
-
-# Moisés Aniceto
-
-### Backend Engineer | API Design | Distributed Systems | Secure Software
-
-</div>
-
----
-
-## 👨‍💻 Professional Summary
-
-Backend-focused developer with strong foundations in API design, system integration, and software architecture.
-
-Experience building RESTful services using Python (FastAPI, Flask), C# (ASP.NET Core), and Node.js, with emphasis on clean code, maintainability, and security.
-
-Comfortable working with relational databases, data modeling, and backend structures that prioritize performance, scalability, and reliability.
-
-Knowledge of networking and cybersecurity fundamentals, applying secure development practices and understanding system behavior beyond code level.
-
-Currently focused on evolving in:
-
-- Distributed systems  
-- Microservices architecture  
-- Event-driven systems  
-- Cloud and DevOps practices  
-- Secure backend engineering  
-
----
-
-## 🧠 Core Competencies
-
-- Backend Architecture & API Design  
-- System Integration & Service Communication  
-- Clean Architecture & SOLID Principles  
-- Data Modeling & Persistence  
-- Secure Coding Practices  
-- Debugging & Problem Solving  
-
----
-
-## ⚙️ Technical Stack
-
-### Languages
-- Python  
-- C#  
-- JavaScript  
-
-### Backend & Frameworks
-- FastAPI  
-- Flask  
-- ASP.NET Core  
-- Node.js (Express)
-
-### Databases
-- PostgreSQL  
-- MySQL  
-- SQLite  
-
-### Data & Automation
-- SQLAlchemy  
-- Pandas  
-- Selenium  
-
-### Messaging & Distributed Systems
-- RabbitMQ  
-
-### DevOps & Versioning
-- Git  
-- GitHub  
-- GitHub Actions  
-
-### Cybersecurity & Networking
-- Nmap  
-- Wireshark  
-- Burp Suite  
-- VirtualBox  
-
----
-
-## 🚀 Selected Projects
-
-### 🔹 Contract Management API  
-**Stack:** Python | FastAPI | PostgreSQL  
-
-Backend system for managing contracts with structured data persistence and clean architecture principles.
-
-**Highlights:**
-- RESTful API design  
-- CRUD operations with validation  
-- Database integration and modeling  
-- Organized and scalable code structure  
-
-🔗 https://github.com/Devmoises79/System-Contratos  
-
----
-
-### 🔹 Messaging System with RabbitMQ  
-**Stack:** Python | RabbitMQ  
-
-Simulation of asynchronous communication between services using message queues.
-
-**Highlights:**
-- Producer / Consumer architecture  
-- Queue-based communication  
-- Introduction to distributed systems concepts  
-
-🔗 https://github.com/Devmoises79/PrimeiraFilaRabbit  
-
----
-
-### 🔹 REST API with Node.js  
-**Stack:** Node.js | Express  
-
-Backend service exposing REST endpoints with structured routing.
-
-**Highlights:**
-- Route organization  
-- API structure design  
-- Foundation for scalable backend services  
-
-🔗 https://github.com/Devmoises79/Server-JS  
-
----
-
-## 📊 GitHub Metrics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devmoises79&theme=github" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devmoises79&theme=github" height="180"/>
-<img src="https://streak-stats.demolab.com?user=Devmoises79&theme=default" height="180"/>
-
-</div>
-
----
-
-## 📐 Engineering Approach
-
-I approach backend development with a focus on:
-
-- Writing **clear, maintainable, and testable code**  
-- Designing systems with **separation of concerns**  
-- Ensuring **data consistency and integrity**  
-- Building services that are **secure by design**  
-- Continuously analyzing and improving system performance  
-
----
-
-
-
-## 🎯 Career Objective
-
-Seeking opportunities as a **Backend Engineering Intern or Junior Backend Developer**, where I can:
-
-- Contribute to real-world systems  
-- Work alongside experienced engineers  
-- Deepen knowledge in architecture, scalability, and security  
-- Grow into high-impact engineering roles  
-
----
-
-## 📜 Certifications
-
-- ISO/IEC 27001:2022 Information Security Associate™  
-- ISO/IEC 20000 IT Service Management Associate™  
-- Certified Associate in Scrum Fundamentals (CASF)  
-- Foundations of Business and Entrepreneurship™  
-
----
-
-## 🤝 Contact
-
-**LinkedIn: www.linkedin.com/in/moisés-aniceto-71042a251**  
-
----
-
-<div align="center">
-
-### “Well-structured systems are not only functional — they are secure, scalable, and sustainable.”
-
-</div>
+“Well-structured systems are built through continuous learning and deliberate engineering.”
+</div> ```
