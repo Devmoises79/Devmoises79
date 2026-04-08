@@ -38,39 +38,47 @@ Currently evolving in distributed systems, microservices, and event-driven archi
 --
 
 # ⚙️ Tech Stack
+```python
 Languages:        Python | C# | JavaScript  
 Frameworks:       FastAPI | Flask | ASP.NET Core | Node.js  
 Databases:        PostgreSQL | MySQL | SQLite  
 Tools & Data:     RabbitMQ | SQLAlchemy | Pandas | Selenium  
 DevOps:           Git | GitHub | GitHub Actions  
-Security:         Nmap | Wireshark | Burp Suite  
+Security:         Nmap | Wireshark | Burp Suite
+```
 --
 
-# Projects
-- 🔹 Contract Management API
+## Projects
 
+# 🔹 Contract Management API
+
+```python
 Python | FastAPI | PostgreSQL
 RESTful API for contract management with structured data modeling and clean architecture.
 
-CRUD with validation
-Scalable structure
-Database integration
+- CRUD with validation
+- Scalable structure
+- Database integration
 
 🔗 https://github.com/Devmoises79/System-Contratos
+```
+-- 
+# 🔹 Messaging System with RabbitMQ
 
--  🔹 Messaging System with RabbitMQ
-
+```python
 Python | RabbitMQ
 Simulation of asynchronous communication using message queues.
 
-Producer / Consumer model
-Event-driven concepts
-Distributed systems foundation
+- Producer / Consumer model
+- Event-driven concepts
+- Distributed systems foundation
 
 🔗 https://github.com/Devmoises79/PrimeiraFilaRabbit
+```
+--
 
-- 🔹 REST API with Node.js
-
+# 🔹 REST API with Node.js
+```python
 Node.js | Express
 Structured backend service exposing REST endpoints.
 
@@ -78,6 +86,7 @@ Organized routing
 Scalable API structure
 
 🔗 https://github.com/Devmoises79/Server-JS
+```
 --
 
 # 📊 GitHub Metrics
