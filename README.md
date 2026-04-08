@@ -121,4 +121,4 @@ def engineering_mindset():
 - LinkedIn: www.linkedin.com/in/moisés-aniceto-71042a251
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=4000&pause=500&color=111111&center=false&vCenter=true&multiline=false&width=800&height=120&lines=def+mentality():;++++mindset+%3D+%22Code,+learn,+improve+every+day%22;++++return+mindset;print(mentality())" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=4000&pause=500&color=111111&center=false&vCenter=true&multiline=true&width=800&height=120&lines=def+mentality():;++++mindset+%3D+%22Code,+learn,+improve+every+day%22;++++return+mindset;print(mentality())" />
