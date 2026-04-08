@@ -94,7 +94,7 @@ Structured backend service exposing REST endpoints.
 ## 🧠 Engineering Mindset
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00F7FF&multiline=true&width=650&height=120&lines=Clean%2C+maintainable%2C+and+testable+code;Strong+separation+of+concerns;Focus+on+scalability+and+performance;Security+as+a+core+principle;Continuous+improvement+in+system+design" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=39FF14&background=00000000&multiline=true&width=650&height=120&lines=Clean%2C+maintainable%2C+and+testable+code;Strong+separation+of+concerns;Focus+on+scalability+and+performance;Security+as+a+core+principle;Continuous+improvement+in+system+design" />
 </p>
 
 # 🎯 Career Objective
