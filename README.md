@@ -47,7 +47,7 @@ Security:         Nmap | Wireshark | Burp Suite
 --
 
 # Projects
-🔹 Contract Management API
+- 🔹 Contract Management API
 
 Python | FastAPI | PostgreSQL
 RESTful API for contract management with structured data modeling and clean architecture.
@@ -58,7 +58,7 @@ Database integration
 
 🔗 https://github.com/Devmoises79/System-Contratos
 
-🔹 Messaging System with RabbitMQ
+-  🔹 Messaging System with RabbitMQ
 
 Python | RabbitMQ
 Simulation of asynchronous communication using message queues.
@@ -69,7 +69,7 @@ Distributed systems foundation
 
 🔗 https://github.com/Devmoises79/PrimeiraFilaRabbit
 
-🔹 REST API with Node.js
+- 🔹 REST API with Node.js
 
 Node.js | Express
 Structured backend service exposing REST endpoints.
