@@ -132,6 +132,10 @@ print(CareerObjective())
 linkedin = "https://www.linkedin.com/in/moisés-aniceto-71042a251"
 github   = "https://github.com/Devmoises79"
 
+print("Let's build something amazing together!\n")
+print(f"LinkedIn: {linkedin}")
+print(f" GitHub: {github}")
+
 print("Let's build something amazing together!")
 ```
 
