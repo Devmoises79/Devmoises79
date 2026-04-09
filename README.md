@@ -36,6 +36,19 @@ Backend developer focused on API design, system integration, and scalable archit
 Experience building secure and maintainable services with Python, C#, and Node.js.
 Currently evolving in distributed systems, microservices, and event-driven architectures.
 
+# 🎯 Career Objective
+```python
+class CareerObjective:
+    def __init__(self):
+        self.role = "Backend Engineering Intern / Junior Backend Developer"
+        self.mission = "build real-world systems, master scalable architectures, evolve with experts"
+
+    def __str__(self):
+        return f"Seeking {self.role} to {self.mission}"
+
+print(CareerObjective())
+```
+
 # ⚙️ Tech Stack
 ```python
 Languages: Python | C# | JavaScript
@@ -104,18 +117,6 @@ def engineering_mindset():
     ]
 ```
 
-# 🎯 Career Objective
-```python
-class CareerObjective:
-    def __init__(self):
-        self.role = "Backend Engineering Intern / Junior Backend Developer"
-        self.mission = "build real-world systems, master scalable architectures, evolve with experts"
-
-    def __str__(self):
-        return f"Seeking {self.role} to {self.mission}"
-
-print(CareerObjective())
-```
 
 ## 📜 Certifications
 
