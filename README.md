@@ -67,9 +67,9 @@ Python | FastAPI | PostgreSQL
 
 RESTful API for contract management with structured data modeling and clean architecture.
 
-CRUD with validation
-Scalable structure
-Database integration
+- CRUD with validation
+- Scalable structure
+- Database integration
 
 🔗 https://github.com/Devmoises79/System-Contratos
 ```
