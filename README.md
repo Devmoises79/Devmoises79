@@ -11,7 +11,7 @@ class BackendEngineer:
         self.frameworks = ["FastAPI", "Flask", "ASP.NET Core", "Node.js (Express)"]
         self.databases = ["PostgreSQL", "MySQL", "SQLite"]
         
-        self.tools = ["RabbitMQ", "SQLAlchemy", "Pandas", "Selenium"]
+        self.tools = ["RabbitMQ", "SQLAlchemy", "Pandas", "Selenium", "Entity Framework"]
         self.devops = ["Git", "GitHub", "GitHub Actions"]
         self.security = ["Nmap", "Wireshark", "Burp Suite"]
         
