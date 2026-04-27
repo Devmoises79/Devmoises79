@@ -66,7 +66,7 @@ Backend service exposing structured REST endpoints.
 - Security-first approach
 - Continuous improvement
 
-#📜 Certifications
+# 📜 Certifications
 
 - ISO/IEC 27001:2022 Information Security Associate™
 - ISO/IEC 20000 IT Service Management Associate™
