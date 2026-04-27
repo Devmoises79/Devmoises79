@@ -8,7 +8,7 @@ Backend Developer focused on building scalable, secure, and maintainable systems
 # 🧠 What I Do
 Design and build REST APIs
 Work with relational databases and data modeling
-Implement asynchronous communication (RabbitMQ)
+Apply asynchronous communication using RabbitMQ (hands-on experience, currently deepening knowledge)
 Apply clean architecture and separation of concerns
 Focus on security and performance
 
