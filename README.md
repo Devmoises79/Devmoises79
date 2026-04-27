@@ -6,11 +6,7 @@ Backend Developer focused on building scalable, secure, and maintainable systems
 - 🚀 Currently evolving in distributed systems and event-driven architecture.
 
 # 🧠 What I Do
-Design and build REST APIs
-Work with relational databases and data modeling
-Apply asynchronous communication using RabbitMQ (hands-on experience, currently deepening knowledge)
-Apply clean architecture and separation of concerns
-Focus on security and performance
+I design and build REST APIs, working with relational databases and data modeling. I apply asynchronous communication using RabbitMQ, with hands-on experience and continuous learning in event-driven systems. I also follow clean architecture principles and strong separation of concerns, with a focus on security and performance.
 
 # ⚙️ Tech Stack
 
