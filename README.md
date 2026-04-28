@@ -1,45 +1,53 @@
 # 👋 Hi, I'm Moisés Aniceto
 
-Backend Developer focused on building **clean, reliable, and well-structured systems**.
+Backend Developer and aspiring Software Engineer focused on building robust RESTful APIs and maintainable backend systems.
 
-* 💡 Experience with REST APIs, data persistence, and system integration
-* 🚀 Currently learning distributed systems and event-driven architecture
-
----
-
-## 📊 GitHub Metrics
-
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devmoises79)
+I have hands-on experience with Python (Flask, FastAPI), C# (.NET Core, ASP.NET), and JavaScript (Node.js, Express), with emphasis on clean structure, security, and real-world business logic implementation.
 
 ---
 
-## 🧠 What I Do
+## 🎯 Objective
 
-* Develop REST APIs using **C#, Python, and Node.js**
-* Work with relational databases and data modeling
-* Implement CRUD operations and backend logic
-* Apply basic asynchronous processing with RabbitMQ
-* Organize code with separation of responsibilities
-* Handle validation and basic error control
+I am seeking an opportunity as an Intern or Junior Developer to apply and expand my knowledge in production-oriented backend environments, working with scalable systems and structured backend architectures.
 
 ---
 
-## ⚙️ Tech Stack
+## 🧠 Core Competencies
 
-**Languages**:
-C#, Python, JavaScript, SQL
+### Languages
+Python, C#, JavaScript (Node.js), SQL.
 
-**Frameworks & Backend**:
-ASP.NET Core, FastAPI, Flask, Node.js (Express)
+### Frameworks & Backend
+Flask, FastAPI, ASP.NET Core, Entity Framework, Node.js, Express.
 
-**Databases**:
-MySQL, PostgreSQL, SQLite
+### Data & Automation Tools
+Pandas, Matplotlib, Selenium, BeautifulSoup.
 
-**Tools & Ecosystem**:
-RabbitMQ, Entity Framework, SQLAlchemy
+### Databases
+MySQL, PostgreSQL, SQL Server, SQLite.
 
-**DevOps**:
-Git, GitHub Actions (basic CI)
+### Messaging
+RabbitMQ (basic concepts: producers, consumers, asynchronous processing).
+
+### DevOps & Version Control
+Git, GitHub, GitHub Actions (basic CI).
+
+### Languages
+English (Intermediate - Limited Working Proficiency)  
+Spanish (Intermediate B1/B2)  
+Portuguese (Native)
+
+---
+
+## 🏗️ Architecture & System Design
+
+- Modular Monolith Architecture applied in backend systems with domain-based organization
+- Layered Architecture separating routing, business logic, and data access concerns
+- Workflow-based systems using state-machine logic for business processes (e.g., contract lifecycle management)
+- RBAC (Role-Based Access Control) for authorization and permission control
+- Basic Event-Driven concepts using message queues (RabbitMQ) for asynchronous processing
+- Monolithic web systems with modular internal structure
+- Security-focused backend design including authentication, CSRF protection, and input validation
 
 ---
 
@@ -49,13 +57,13 @@ Git, GitHub Actions (basic CI)
 
 **C# | ASP.NET Core | Entity Framework Core | SQLite**
 
-RESTful API for product management with structured backend organization.
+RESTful API for product management with structured backend design.
 
-* ✔ CRUD operations
-* ✔ Entity Framework Core integration
-* ✔ Organized architecture (Controllers, Models, Data)
-* ✔ Swagger for endpoint testing
-* ✔ SQLite persistence
+- ✔ CRUD operations
+- ✔ Entity Framework Core integration
+- ✔ Layered architecture (Controllers, Models, Data)
+- ✔ Swagger documentation
+- ✔ SQLite persistence
 
 🔗 https://github.com/Devmoises79/Crud-Produtos
 
@@ -65,12 +73,13 @@ RESTful API for product management with structured backend organization.
 
 **Python | Flask | MySQL**
 
-Backend system focused on authentication and business rules.
+Backend system implementing structured business rules and workflow-based contract lifecycle management.
 
-* ✔ User and role management
-* ✔ Authentication and validation
-* ✔ Data persistence with MySQL
-* ✔ Logging and basic audit
+- ✔ User authentication and role-based access control (RBAC)
+- ✔ Contract lifecycle with defined workflow states
+- ✔ Data persistence with MySQL
+- ✔ Logging and audit trail
+- ✔ Input validation and security controls
 
 🔗 https://github.com/Devmoises79/System-Contratos
 
@@ -80,11 +89,11 @@ Backend system focused on authentication and business rules.
 
 **Python | RabbitMQ**
 
-Basic asynchronous communication using message queues.
+Basic implementation of asynchronous communication using message queues.
 
-* ✔ Producer/Consumer implementation
-* ✔ Message sending and processing
-* ✔ Introduction to event-driven systems
+- ✔ Producer and consumer architecture
+- ✔ Asynchronous message processing
+- ✔ Introduction to event-driven concepts
 
 🔗 https://github.com/Devmoises79/PrimeiraFilaRabbit
 
@@ -92,12 +101,14 @@ Basic asynchronous communication using message queues.
 
 ## 📈 Current Focus
 
-* Improving backend development with C# and Python
-* Deepening API design and data modeling
-* Studying system design and distributed systems
+- Backend system design and architecture fundamentals
+- REST API design and best practices
+- Data modeling and relational database design
+- System design fundamentals and scalability concepts
 
 ---
 
 ## 📫 Contact
 
 🔗 LinkedIn: https://www.linkedin.com/in/moisés-aniceto-71042a251
+
