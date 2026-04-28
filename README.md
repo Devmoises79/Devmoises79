@@ -2,7 +2,7 @@
 
 Backend Developer and aspiring Software Engineer focused on building robust RESTful APIs and maintainable backend systems.
 
-I have hands-on experience with Python (Flask, FastAPI), C# (.NET Core, ASP.NET), and JavaScript (Node.js, Express), with emphasis on clean structure, security, and real-world business logic implementation.
+I have hands-on experience with C# (.NET Core, ASP.NET), Python (Flask, FastAPI) and JavaScript (Node.js, Express), with emphasis on clean structure, security, and real-world business logic implementation.
 
 ---
 
@@ -14,25 +14,25 @@ I am seeking an opportunity as an Intern or Junior Developer to apply and expand
 
 ## 🧠 Core Competencies
 
-### Languages
+### Languages:
 Python, C#, JavaScript (Node.js), SQL.
 
-### Frameworks & Backend
+### Frameworks & Backend:
 Flask, FastAPI, ASP.NET Core, Entity Framework, Node.js, Express.
 
-### Data & Automation Tools
+### Data & Automation Tools:
 Pandas, Matplotlib, Selenium, BeautifulSoup.
 
-### Databases
+### Databases:
 MySQL, PostgreSQL, SQL Server, SQLite.
 
-### Messaging
+### Messaging:
 RabbitMQ (basic concepts: producers, consumers, asynchronous processing).
 
-### DevOps & Version Control
+### DevOps & Version Control:
 Git, GitHub, GitHub Actions (basic CI).
 
-### Languages
+### Languages:
 English (Intermediate - Limited Working Proficiency)  
 Spanish (Intermediate B1/B2)  
 Portuguese (Native)
