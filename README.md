@@ -1,114 +1,179 @@
 # 👋 Hi, I'm Moisés Aniceto
 
-Backend Developer and aspiring Software Engineer focused on building robust RESTful APIs and maintainable backend systems.
-
-I have hands-on experience with C# (.NET Core, ASP.NET), Python (Flask, FastAPI) and JavaScript (Node.js, Express), with emphasis on clean structure, security, and real-world business logic implementation.
+Backend Developer focused on building **clean, reliable, and well-structured systems**.
 
 ---
 
-## 🎯 Objective
+## 🌐 Language / Idioma
 
-I am seeking an opportunity as an Intern or Junior Developer to apply and expand my knowledge in production-oriented backend environments, working with scalable systems and structured backend architectures.
-
----
-
-## 🧠 Core Competencies
-
-### Languages:
-- Python, C#, JavaScript (Node.js), SQL.
-
-### Frameworks & Backend:
-- Flask, FastAPI, ASP.NET Core, Entity Framework, Node.js, Express.
-
-### Data & Automation Tools:
-- Pandas, Matplotlib, Selenium, BeautifulSoup.
-
-### Databases:
-- MySQL, PostgreSQL, SQL Server, SQLite.
-
-### Messaging:
-- RabbitMQ (basic concepts: producers, consumers, asynchronous processing).
-
-### DevOps & Version Control:
-- Git, GitHub, GitHub Actions (basic CI).
-
-### Languages:
-- English (Intermediate - Limited Working Proficiency)  
-- Spanish (Intermediate B1/B2)  
-- Portuguese (Native)
+- 🇧🇷 [Português](#pt-br)
+- 🇺🇸 [English](#en)
 
 ---
 
-## 🏗️ Architecture & System Design
+<a name="pt-br"></a>
+# 🇧🇷 Português
 
-- Modular Monolith Architecture applied in backend systems with domain-based organization
-- Layered Architecture separating routing, business logic, and data access concerns
-- Workflow-based systems using state-machine logic for business processes (e.g., contract lifecycle management)
-- RBAC (Role-Based Access Control) for authorization and permission control
-- Basic Event-Driven concepts using message queues (RabbitMQ) for asynchronous processing
-- Monolithic web systems with modular internal structure
-- Security-focused backend design including authentication, CSRF protection, and input validation
+## 👨‍💻 Sobre mim
 
----
+Backend Developer focado no desenvolvimento de APIs e sistemas estruturados, com atenção a organização de código, boas práticas e implementação de regras de negócio reais.
 
-## 🚀 Featured Projects
-
-### 🔹 Product Management API (C#)
-
-**C# | ASP.NET Core | Entity Framework Core | SQLite**
-
-RESTful API for product management with structured backend design.
-
-- ✔ CRUD operations
-- ✔ Entity Framework Core integration
-- ✔ Layered architecture (Controllers, Models, Data)
-- ✔ Swagger documentation
-- ✔ SQLite persistence
-
-🔗 https://github.com/Devmoises79/Crud-Produtos
+Busco oportunidades como Estagiário ou Desenvolvedor Júnior para evoluir em ambientes de engenharia de software backend.
 
 ---
 
-### 🔹 Contract Management System
+## 🧠 O que faço
 
-**Python | Flask | MySQL**
+- Desenvolvimento de APIs REST
+- Modelagem e persistência de dados
+- Implementação de regras de negócio
+- Organização de código com separação de responsabilidades
+- Sistemas com controle de acesso e validação de dados
 
-Backend system implementing structured business rules and workflow-based contract lifecycle management.
+---
 
-- ✔ User authentication and role-based access control (RBAC)
-- ✔ Contract lifecycle with defined workflow states
-- ✔ Data persistence with MySQL
-- ✔ Logging and audit trail
-- ✔ Input validation and security controls
+## ⚙️ Tech Stack
+
+**Linguagens:**
+Python, C#, JavaScript, SQL
+
+**Backend:**
+Flask, FastAPI, ASP.NET Core, Node.js (Express)
+
+**Banco de dados:**
+MySQL, PostgreSQL, SQL Server, SQLite
+
+**Ferramentas:**
+Git, GitHub, GitHub Actions (básico), RabbitMQ (fundamentos)
+
+---
+
+## 🏗️ Arquitetura & Sistemas
+
+- Modular Monolith (arquitetura modular em backend monolítico)
+- Layered Architecture (separação em camadas: controller, service, repository)
+- Workflow / State Machine (fluxos baseados em estados de negócio)
+- RBAC (Role-Based Access Control)
+- Event-driven (conceitos básicos com filas e mensageria)
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🔹 System-Contratos
+Sistema corporativo de gestão de contratos com foco em regras de negócio, workflow e RBAC.
+
+- APIs estruturadas
+- Fluxo de contratos baseado em estados
+- Controle de permissões por perfil
+- Validações e segurança backend
 
 🔗 https://github.com/Devmoises79/System-Contratos
 
 ---
 
-### 🔹 Messaging System with RabbitMQ
+### 🔹 CRUD Produtos (.NET)
+API REST simples para gerenciamento de produtos.
 
-**Python | RabbitMQ**
+- ASP.NET Core
+- Entity Framework Core
+- SQLite
+- Swagger
 
-Basic implementation of asynchronous communication using message queues.
+🔗 https://github.com/Devmoises79/Crud-Produtos
 
-- ✔ Producer and consumer architecture
-- ✔ Asynchronous message processing
-- ✔ Introduction to event-driven concepts
+---
+
+### 🔹 RabbitMQ Playground
+Projeto de estudo de mensageria.
+
+- Producer / Consumer
+- Processamento assíncrono
+- Introdução a event-driven systems
 
 🔗 https://github.com/Devmoises79/PrimeiraFilaRabbit
 
 ---
 
+## 📈 Foco atual
+
+- Arquitetura de sistemas backend
+- APIs escaláveis e bem estruturadas
+- Design de sistemas orientados a regras de negócio
+- Evolução em engenharia de software
+
+---
+
+## 📫 Contato
+
+🔗 GitHub: https://github.com/Devmoises79  
+🔗 LinkedIn: https://www.linkedin.com/in/moisés-aniceto-71042a251/
+
+---
+
+<a name="en"></a>
+# 🇺🇸 English
+
+## 👨‍💻 About me
+
+Backend Developer focused on building APIs and structured systems with emphasis on clean code, software design principles, and real-world business logic.
+
+Currently seeking an opportunity as an Intern or Junior Backend Developer.
+
+---
+
+## 🧠 What I do
+
+- REST API development
+- Data modeling and persistence
+- Business rules implementation
+- Clean architecture and separation of concerns
+- Authentication and authorization systems
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages:**
+Python, C#, JavaScript, SQL
+
+**Backend:**
+Flask, FastAPI, ASP.NET Core, Node.js (Express)
+
+**Databases:**
+MySQL, PostgreSQL, SQL Server, SQLite
+
+**Tools:**
+Git, GitHub Actions (basic), RabbitMQ fundamentals
+
+---
+
+## 🏗️ Architecture & Systems
+
+- Modular Monolith Architecture
+- Layered Architecture
+- Workflow / State Machine design
+- RBAC (Role-Based Access Control)
+- Basic Event-Driven concepts (message queues)
+
+---
+
+## 🚀 Featured Projects
+
+Same projects listed above with backend focus.
+
+---
+
 ## 📈 Current Focus
 
-- Backend system design and architecture fundamentals
-- REST API design and best practices
-- Data modeling and relational database design
-- System design fundamentals and scalability concepts
+- Backend system design
+- Scalable API architecture
+- Distributed systems fundamentals
+- Software engineering best practices
 
 ---
 
 ## 📫 Contact
 
-🔗 LinkedIn: https://www.linkedin.com/in/moisés-aniceto-71042a251
-
+GitHub: https://github.com/Devmoises79  
+LinkedIn: https://www.linkedin.com/in/moisés-aniceto-71042a251/
