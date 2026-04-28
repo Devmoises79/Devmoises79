@@ -2,72 +2,94 @@
 
 Backend Developer focused on building scalable, secure, and maintainable systems.
 
-- 💡 I work with API design, system integration, and asynchronous communication.
-- 🚀 Currently evolving in distributed systems and event-driven architecture.
+- 💡 Experience with API design, system integration, and asynchronous communication
+- 🚀 Currently focused on distributed systems and event-driven architecture
 
-# 🧠 What I Do
-I design and build REST APIs, working with relational databases and data modeling. I apply asynchronous communication using RabbitMQ, with hands-on experience and continuous learning in event-driven systems. I also follow clean architecture principles and strong separation of concerns, with a focus on security and performance.
+---
 
-# ⚙️ Tech Stack
+## 🧠 What I Do
 
-- Languages: Python, C#, JavaScript
-- Frameworks: FastAPI, Flask, ASP.NET Core, Node.js (Express)
-- Databases: PostgreSQL, MySQL, SQLite
-- Tools: RabbitMQ, SQLAlchemy, Selenium
-- DevOps: Git, GitHub Actions
-- Security: Nmap, Wireshark, Burp Suite
+I design and develop RESTful APIs with strong focus on clean architecture, data modeling, and performance.
+
+I have hands-on experience with asynchronous communication using RabbitMQ, building decoupled systems based on event-driven principles.
+
+My work prioritizes maintainability, security, and scalability in real-world backend scenarios.
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages:** Python, C#, JavaScript  
+**Frameworks:** FastAPI, Flask, ASP.NET Core, Node.js (Express)  
+**Databases:** PostgreSQL, MySQL, SQLite  
+**Tools & Libraries:** RabbitMQ, SQLAlchemy, Selenium  
+**DevOps:** Git, GitHub Actions  
+**Security:** Nmap, Wireshark, Burp Suite  
+
+---
 
 ## 🚀 Featured Projects
 
-# 🔹 Contract Management API
+### 🔹 Contract Management System
 
-Python | FastAPI | PostgreSQL
+**Python | Flask | MySQL**
 
-RESTful API for managing contracts with structured data modeling and scalable architecture.
+Web system for managing contracts, users, and companies with a modular and scalable architecture.
 
-- ✔ Input validation and business rules
-- ✔ Database integration with PostgreSQL
-- ✔ Modular and maintainable structure
+- ✔ Role-based access control (RBAC)
+- ✔ Authentication and security mechanisms (CSRF, password hashing, IP blocking)
+- ✔ Contract workflow and PDF generation
+- ✔ Logging and audit system
 
-- 🔗 https://github.com/Devmoises79/System-Contratos
+🔗 https://github.com/Devmoises79/System-Contratos
 
-# 🔹 Messaging System with RabbitMQ
+---
 
- Python | RabbitMQ
+### 🔹 Messaging System with RabbitMQ
+
+**Python | RabbitMQ**
 
 Asynchronous communication system using message queues.
 
 - ✔ Producer/Consumer architecture
-- ✔ Message queue processing
+- ✔ Message processing via queues
 - ✔ Foundation for distributed systems
 
-- 🔗 https://github.com/Devmoises79/PrimeiraFilaRabbit
+🔗 https://github.com/Devmoises79/PrimeiraFilaRabbit
 
-# 🔹 REST API with Node.js
+---
 
-Node.js | Express
+### 🔹 Authentication System (Node.js)
 
-Backend service exposing structured REST endpoints.
+**Node.js | Express**
 
-- ✔ Organized routing
-- ✔ Scalable API structure
-- ✔ Clean separation of concerns
+Backend authentication system with session-based access control.
 
-- 🔗 https://github.com/Devmoises79/Server-JS
+- ✔ Protected routes with middleware
+- ✔ Session management and expiration
+- ✔ User management and validation
 
-# 📈 Engineering Mindset
+🔗 https://github.com/Devmoises79/Server-JS
+
+---
+
+## 📈 Engineering Mindset
 
 - Clean and maintainable code
-- Scalability and performance
+- Scalable system design
 - Security-first approach
-- Continuous improvement
+- Continuous learning and improvement
 
-# 📜 Certifications
+---
 
-- ISO/IEC 27001:2022 Information Security Associate™
-- ISO/IEC 20000 IT Service Management Associate™
-- Scrum Fundamentals Certified (CASF)
+## 📜 Certifications
 
-# 📫 Contact
+- ISO/IEC 27001:2022 Information Security Associate™  
+- ISO/IEC 20000 IT Service Management Associate™  
+- Scrum Fundamentals Certified (CASF)  
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/moisés-aniceto-71042a251
+---
+
+## 📫 Contact
+
+🔗 LinkedIn: https://www.linkedin.com/in/moisés-aniceto-71042a251
