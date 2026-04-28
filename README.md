@@ -21,7 +21,7 @@ My work prioritizes maintainability, security, and scalability in real-world bac
 
 **Languages:** Python, C#, JavaScript  
 **Frameworks:** FastAPI, Flask, ASP.NET Core, Node.js (Express)  
-**Databases:** PostgreSQL, MySQL, SQLite  
+**Databases:** PostgreSQL, MySQL, SQLServer, SQLite  
 **Tools & Libraries:** RabbitMQ, SQLAlchemy, Selenium  
 **DevOps:** Git, GitHub Actions  
 **Security:** Nmap, Wireshark, Burp Suite  
@@ -29,6 +29,22 @@ My work prioritizes maintainability, security, and scalability in real-world bac
 ---
 
 ## 🚀 Featured Projects
+
+### 🔹 Product Management API (C#)
+
+**C# | ASP.NET Core | Entity Framework | SQLite**
+
+RESTful API for managing products, built with ASP.NET Core following clean architecture principles and best practices for backend development.
+
+- ✔ Full CRUD operations with REST standards
+- ✔ Entity Framework Core integration
+- ✔ Structured project organization (Controllers, Data, Models)
+- ✔ Swagger documentation for API testing
+- ✔ SQLite database for persistence
+
+🔗 https://github.com/Devmoises79/Crud-Produtos
+
+---
 
 ### 🔹 Contract Management System
 
@@ -56,20 +72,6 @@ Asynchronous communication system using message queues.
 - ✔ Foundation for distributed systems
 
 🔗 https://github.com/Devmoises79/PrimeiraFilaRabbit
-
----
-
-### 🔹 Authentication System (Node.js)
-
-**Node.js | Express**
-
-Backend authentication system with session-based access control.
-
-- ✔ Protected routes with middleware
-- ✔ Session management and expiration
-- ✔ User management and validation
-
-🔗 https://github.com/Devmoises79/Server-JS
 
 ---
 
