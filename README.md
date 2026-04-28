@@ -10,7 +10,6 @@ Backend Developer focused on building **clean, reliable, and well-structured sys
 ## 📊 GitHub Metrics
 
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devmoises79)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devmoises79)
 ---
 
 ## 🧠 What I Do
