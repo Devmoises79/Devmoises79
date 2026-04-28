@@ -9,10 +9,7 @@ Backend Developer focused on building **clean, reliable, and well-structured sys
 
 ## 📊 GitHub Metrics
 
-![GitHub Stats](https://api-github-readme-stats.vercel.app/api?username=Devmoises79\&show_icons=true\&include_all_commits=true\&count_private=true)
-
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devmoises79)
-
 ---
 
 ## 🧠 What I Do
