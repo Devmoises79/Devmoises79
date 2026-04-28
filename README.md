@@ -63,7 +63,7 @@ Sistema corporativo de gestão de contratos com foco em regras de negócio, work
 ---
 
 ### 🔹 CRUD Produtos (.NET)
-API REST simples para gerenciamento de produtos.
+API REST para gerenciamento de produtos.
 
 - ASP.NET Core
 - Entity Framework Core
