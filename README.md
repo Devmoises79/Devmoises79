@@ -26,19 +26,19 @@ Backend Developer focused on building **clean, reliable, and well-structured sys
 
 ## ⚙️ Tech Stack
 
-**Languages**
+**Languages**:
 C#, Python, JavaScript, SQL
 
-**Frameworks & Backend**
+**Frameworks & Backend**:
 ASP.NET Core, FastAPI, Flask, Node.js (Express)
 
-**Databases**
+**Databases**:
 MySQL, PostgreSQL, SQLite
 
-**Tools & Ecosystem**
+**Tools & Ecosystem**:
 RabbitMQ, Entity Framework, SQLAlchemy
 
-**DevOps**
+**DevOps**:
 Git, GitHub Actions (basic CI)
 
 ---
