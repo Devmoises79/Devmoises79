@@ -1,63 +1,62 @@
 # 👋 Hi, I'm Moisés Aniceto
 
-Backend Developer focused on building **scalable, secure, and maintainable systems**.
+Backend Developer focused on building **clean, reliable, and well-structured systems**.
 
-* 💡 Experience with API design, system integration, and asynchronous communication
-* 🚀 Currently focused on distributed systems and event-driven architecture
+* 💡 Experience with REST APIs, data persistence, and system integration
+* 🚀 Currently learning distributed systems and event-driven architecture
 
 ---
 
 ## 📊 GitHub Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devmoises79&show_icons=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://api-github-readme-stats.vercel.app/api?username=Devmoises79\&show_icons=true\&include_all_commits=true\&count_private=true)
+
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devmoises79)
 
 ---
 
-## 🧠 Engineering Focus
+## 🧠 What I Do
 
-* REST API design and backend architecture
-* Data modeling and relational databases
-* Asynchronous processing and messaging systems
-* Clean architecture and separation of concerns
-* CI/CD and automation pipelines
+* Develop REST APIs using **C#, Python, and Node.js**
+* Work with relational databases and data modeling
+* Implement CRUD operations and backend logic
+* Apply basic asynchronous processing with RabbitMQ
+* Organize code with separation of responsibilities
+* Handle validation and basic error control
 
 ---
 
 ## ⚙️ Tech Stack
 
 **Languages:**
-C#, Python, JavaScript
+C#, Python, JavaScript, SQL
 
 **Frameworks & Backend:**
 ASP.NET Core, FastAPI, Flask, Node.js (Express)
 
 **Databases:**
-PostgreSQL, MySQL, SQL Server, SQLite
+MySQL, PostgreSQL, SQLite
 
 **Tools & Ecosystem:**
-RabbitMQ, SQLAlchemy, Selenium
+RabbitMQ, Entity Framework, SQLAlchemy
 
 **DevOps:**
-Git, GitHub Actions
-
-**Security:**
-Nmap, Wireshark, Burp Suite
+Git, GitHub Actions (basic CI)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Product Management API (C#) — **Primary Backend Project**
+### 🔹 Product Management API (C#)
 
 **C# | ASP.NET Core | Entity Framework Core | SQLite**
 
-RESTful API designed with backend engineering principles and clean structure.
+RESTful API for product management with structured backend organization.
 
-* ✔ CRUD operations following REST standards
-* ✔ Entity Framework Core (ORM)
-* ✔ Structured architecture (Controllers, Models, Data)
-* ✔ Swagger for API documentation
+* ✔ CRUD operations
+* ✔ Entity Framework Core integration
+* ✔ Organized architecture (Controllers, Models, Data)
+* ✔ Swagger for endpoint testing
 * ✔ SQLite persistence
 
 🔗 https://github.com/Devmoises79/Crud-Produtos
@@ -68,12 +67,12 @@ RESTful API designed with backend engineering principles and clean structure.
 
 **Python | Flask | MySQL**
 
-Backend system with authentication, RBAC, and business rules.
+Backend system focused on authentication and business rules.
 
-* ✔ Role-based access control (RBAC)
-* ✔ Authentication and security (CSRF, hashing, IP control)
-* ✔ Contract lifecycle management
-* ✔ Logging and audit
+* ✔ User and role management
+* ✔ Authentication and validation
+* ✔ Data persistence with MySQL
+* ✔ Logging and basic audit
 
 🔗 https://github.com/Devmoises79/System-Contratos
 
@@ -83,31 +82,21 @@ Backend system with authentication, RBAC, and business rules.
 
 **Python | RabbitMQ**
 
-Event-driven communication system using message queues.
+Basic asynchronous communication using message queues.
 
-* ✔ Producer/Consumer architecture
-* ✔ Asynchronous message processing
-* ✔ Decoupled system design
+* ✔ Producer/Consumer implementation
+* ✔ Message sending and processing
+* ✔ Introduction to event-driven systems
 
 🔗 https://github.com/Devmoises79/PrimeiraFilaRabbit
 
 ---
 
-## 📈 Engineering Signals
+## 📈 Current Focus
 
-* Strong foundation in **backend development with C# and Python**
-* Practical experience with **ORMs and relational databases**
-* Understanding of **event-driven architecture and messaging systems**
-* Experience with **CI/CD pipelines and automation**
-* Focus on **code quality, maintainability, and scalability**
-
----
-
-## 📜 Certifications
-
-* ISO/IEC 27001:2022 Information Security Associate™
-* ISO/IEC 20000 IT Service Management Associate™
-* Scrum Fundamentals Certified (CASF)
+* Improving backend development with C# and Python
+* Deepening API design and data modeling
+* Studying system design and distributed systems
 
 ---
 
