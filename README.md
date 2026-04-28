@@ -1,46 +1,64 @@
 # 👋 Hi, I'm Moisés Aniceto
 
-Backend Developer focused on building scalable, secure, and maintainable systems.
+Backend Developer focused on building **scalable, secure, and maintainable systems**.
 
-- 💡 Experience with API design, system integration, and asynchronous communication
-- 🚀 Currently focused on distributed systems and event-driven architecture
+* 💡 Experience with API design, system integration, and asynchronous communication
+* 🚀 Currently focused on distributed systems and event-driven architecture
 
 ---
 
-## 🧠 What I Do
+## 📊 GitHub Metrics
 
-I design and develop RESTful APIs with strong focus on clean architecture, data modeling, and performance.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devmoises79\&show_icons=true\&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devmoises79\&layout=compact)
 
-I have hands-on experience with asynchronous communication using RabbitMQ, building decoupled systems based on event-driven principles.
+---
 
-My work prioritizes maintainability, security, and scalability in real-world backend scenarios.
+## 🧠 Engineering Focus
+
+* REST API design and backend architecture
+* Data modeling and relational databases
+* Asynchronous processing and messaging systems
+* Clean architecture and separation of concerns
+* CI/CD and automation pipelines
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Languages:** Python, C#, JavaScript  
-**Frameworks:** FastAPI, Flask, ASP.NET Core, Node.js (Express)  
-**Databases:** PostgreSQL, MySQL, SQLServer, SQLite  
-**Tools & Libraries:** RabbitMQ, SQLAlchemy, Selenium  
-**DevOps:** Git, GitHub Actions  
-**Security:** Nmap, Wireshark, Burp Suite  
+**Languages:**
+C#, Python, JavaScript
+
+**Frameworks & Backend:**
+ASP.NET Core, FastAPI, Flask, Node.js (Express)
+
+**Databases:**
+PostgreSQL, MySQL, SQL Server, SQLite
+
+**Tools & Ecosystem:**
+RabbitMQ, SQLAlchemy, Selenium
+
+**DevOps:**
+Git, GitHub Actions
+
+**Security:**
+Nmap, Wireshark, Burp Suite
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Product Management API (C#)
+### 🔹 Product Management API (C#) — **Primary Backend Project**
 
-**C# | ASP.NET Core | Entity Framework | SQLite**
+**C# | ASP.NET Core | Entity Framework Core | SQLite**
 
-RESTful API for managing products, built with ASP.NET Core following clean architecture principles and best practices for backend development.
+RESTful API designed with backend engineering principles and clean structure.
 
-- ✔ Full CRUD operations with REST standards
-- ✔ Entity Framework Core integration
-- ✔ Structured project organization (Controllers, Data, Models)
-- ✔ Swagger documentation for API testing
-- ✔ SQLite database for persistence
+* ✔ CRUD operations following REST standards
+* ✔ Entity Framework Core (ORM)
+* ✔ Structured architecture (Controllers, Models, Data)
+* ✔ Swagger for API documentation
+* ✔ SQLite persistence
 
 🔗 https://github.com/Devmoises79/Crud-Produtos
 
@@ -50,12 +68,12 @@ RESTful API for managing products, built with ASP.NET Core following clean archi
 
 **Python | Flask | MySQL**
 
-Web system for managing contracts, users, and companies with a modular and scalable architecture.
+Backend system with authentication, RBAC, and business rules.
 
-- ✔ Role-based access control (RBAC)
-- ✔ Authentication and security mechanisms (CSRF, password hashing, IP blocking)
-- ✔ Contract workflow and PDF generation
-- ✔ Logging and audit system
+* ✔ Role-based access control (RBAC)
+* ✔ Authentication and security (CSRF, hashing, IP control)
+* ✔ Contract lifecycle management
+* ✔ Logging and audit
 
 🔗 https://github.com/Devmoises79/System-Contratos
 
@@ -65,30 +83,31 @@ Web system for managing contracts, users, and companies with a modular and scala
 
 **Python | RabbitMQ**
 
-Asynchronous communication system using message queues.
+Event-driven communication system using message queues.
 
-- ✔ Producer/Consumer architecture
-- ✔ Message processing via queues
-- ✔ Foundation for distributed systems
+* ✔ Producer/Consumer architecture
+* ✔ Asynchronous message processing
+* ✔ Decoupled system design
 
 🔗 https://github.com/Devmoises79/PrimeiraFilaRabbit
 
 ---
 
-## 📈 Engineering Mindset
+## 📈 Engineering Signals
 
-- Clean and maintainable code
-- Scalable system design
-- Security-first approach
-- Continuous learning and improvement
+* Strong foundation in **backend development with C# and Python**
+* Practical experience with **ORMs and relational databases**
+* Understanding of **event-driven architecture and messaging systems**
+* Experience with **CI/CD pipelines and automation**
+* Focus on **code quality, maintainability, and scalability**
 
 ---
 
 ## 📜 Certifications
 
-- ISO/IEC 27001:2022 Information Security Associate™  
-- ISO/IEC 20000 IT Service Management Associate™  
-- Scrum Fundamentals Certified (CASF)  
+* ISO/IEC 27001:2022 Information Security Associate™
+* ISO/IEC 20000 IT Service Management Associate™
+* Scrum Fundamentals Certified (CASF)
 
 ---
 
