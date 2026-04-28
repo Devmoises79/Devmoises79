@@ -4,16 +4,6 @@ Backend Developer focado em **arquitetura de sistemas, APIs e regras de negócio
 
 ---
 
-## 🌐 Language / Idioma
-
-- 🇧🇷 [Português](#pt-br)
-- 🇺🇸 [English](#en)
-
----
-
-<a name="pt-br"></a>
-# 🇧🇷 Português
-
 ## 👨‍💻 Sobre mim
 
 Backend Developer focado no desenvolvimento de APIs e sistemas estruturados, com atenção a organização de código, boas práticas e implementação de regras de negócio reais.
@@ -106,75 +96,9 @@ Projeto de estudo de mensageria.
 
 ## 📫 Contato
 
-🔗 GitHub: https://github.com/Devmoises79  
 🔗 LinkedIn: https://www.linkedin.com/in/moisés-aniceto-71042a251/
 
 ---
 
 
-<a name="en"></a>
-# 🇺🇸 English
 
-## 👨‍💻 About me
-
-Backend Developer focused on building APIs and structured systems with emphasis on clean code, software design principles, and real-world business logic.
-
-Currently seeking an opportunity as an Intern or Junior Backend Developer.
-
----
-
-## 🧠 What I do
-
-- REST API development
-- Data modeling and persistence
-- Business rules implementation
-- Clean architecture and separation of concerns
-- Authentication and authorization systems
-
----
-
-## ⚙️ Tech Stack
-
-**Languages:**
-Python, C#, JavaScript, SQL
-
-**Backend:**
-Flask, FastAPI, ASP.NET Core, Node.js (Express)
-
-**Databases:**
-MySQL, PostgreSQL, SQL Server, SQLite
-
-**Tools:**
-Git, GitHub Actions (basic), RabbitMQ fundamentals
-
----
-
-## 🏗️ Architecture & Systems
-
-- Modular Monolith Architecture
-- Layered Architecture
-- Workflow / State Machine design
-- RBAC (Role-Based Access Control)
-- Basic Event-Driven concepts (message queues)
-
----
-
-## 🚀 Featured Projects
-
-Same projects listed above with backend focus.
-
----
-
-## 📈 Current Focus
-
-- Backend system design
-- Scalable API architecture
-- Distributed systems fundamentals
-- Software engineering best practices
-
----
-
-## 📫 Contact
-
-GitHub: https://github.com/Devmoises79  
-LinkedIn: https://www.linkedin.com/in/moisés-aniceto-71042a251/
