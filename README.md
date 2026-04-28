@@ -10,7 +10,7 @@ Backend Developer focused on building **scalable, secure, and maintainable syste
 ## 📊 GitHub Metrics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devmoises79\&show_icons=true\&theme=default)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devmoises79)
+![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Devmoises79)
 
 ---
 
