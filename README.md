@@ -1,6 +1,6 @@
 # 👋 Olá, sou Moisés Aniceto
 
-Backend Developer focado em **arquitetura de sistemas, APIs e regras de negócio (business)**, construindo soluções backend limpas, estruturadas e orientadas a processos reais.
+Backend Developer focado em **arquitetura de sistemas, APIs e regras de negócio (business rules)**, construindo soluções backend limpas, estruturadas e orientadas a processos reais.
 
 ---
 
