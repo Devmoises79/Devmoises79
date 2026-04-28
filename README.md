@@ -15,27 +15,27 @@ I am seeking an opportunity as an Intern or Junior Developer to apply and expand
 ## 🧠 Core Competencies
 
 ### Languages:
-Python, C#, JavaScript (Node.js), SQL.
+- Python, C#, JavaScript (Node.js), SQL.
 
 ### Frameworks & Backend:
-Flask, FastAPI, ASP.NET Core, Entity Framework, Node.js, Express.
+- Flask, FastAPI, ASP.NET Core, Entity Framework, Node.js, Express.
 
 ### Data & Automation Tools:
-Pandas, Matplotlib, Selenium, BeautifulSoup.
+- Pandas, Matplotlib, Selenium, BeautifulSoup.
 
 ### Databases:
-MySQL, PostgreSQL, SQL Server, SQLite.
+- MySQL, PostgreSQL, SQL Server, SQLite.
 
 ### Messaging:
-RabbitMQ (basic concepts: producers, consumers, asynchronous processing).
+- RabbitMQ (basic concepts: producers, consumers, asynchronous processing).
 
 ### DevOps & Version Control:
-Git, GitHub, GitHub Actions (basic CI).
+- Git, GitHub, GitHub Actions (basic CI).
 
 ### Languages:
-English (Intermediate - Limited Working Proficiency)  
-Spanish (Intermediate B1/B2)  
-Portuguese (Native)
+- English (Intermediate - Limited Working Proficiency)  
+- Spanish (Intermediate B1/B2)  
+- Portuguese (Native)
 
 ---
 
