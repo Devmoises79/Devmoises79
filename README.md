@@ -1,104 +1,105 @@
-# 👋 Olá, sou Moisés Aniceto
+# 👨‍💻 Backend Developer | Aspiring Software Engineer
 
-Backend Developer focado em **arquitetura de sistemas, APIs e regras de negócio (business rules)**, construindo soluções backend limpas, estruturadas e orientadas a processos reais.
-
----
-
-## 👨‍💻 Sobre mim
-
-Backend Developer focado no desenvolvimento de APIs e sistemas estruturados, com atenção a organização de código, boas práticas e implementação de regras de negócio reais.
-
-Busco oportunidades como Estagiário ou Desenvolvedor Júnior para evoluir em ambientes de engenharia de software backend.
+I build robust, scalable, and maintainable backend systems focused on real-world business logic and clean architecture.
 
 ---
 
-## 🧠 O que faço
+## 🚀 About Me
 
-- Desenvolvimento de APIs REST
-- Modelagem e persistência de dados
-- Implementação de regras de negócio
-- Organização de código com separação de responsabilidades
-- Sistemas com controle de acesso e validação de dados
-
----
-
-## ⚙️ Tech Stack
-
-**Linguagens:**
-Python, C#, JavaScript, SQL
-
-**Backend:**
-Flask, FastAPI, ASP.NET Core, Node.js (Express)
-
-**Banco de dados:**
-MySQL, PostgreSQL, SQL Server, SQLite
-
-**Ferramentas:**
-Git, GitHub, GitHub Actions (básico), RabbitMQ (fundamentos)
+* Backend Developer focused on RESTful APIs and production-ready systems
+* Strong emphasis on code organization, security, and maintainability
+* Currently pursuing a degree in Systems Analysis and Development (Estácio)
+* Participant at Instituto PROA
 
 ---
 
-## 🏗️ Arquitetura & Sistemas
+## 🧠 Tech Stack
 
-- Modular Monolith (arquitetura modular em backend monolítico)
-- Layered Architecture (separação em camadas: controller, service, repository)
-- Workflow / State Machine (fluxos baseados em estados de negócio)
-- RBAC (Role-Based Access Control)
-- Event-driven (conceitos básicos com filas e mensageria)
+**Languages**
 
----
+* Python | C# | JavaScript (Node.js) | SQL
 
-## 🚀 Projetos em destaque
+**Backend & Frameworks**
 
-### 🔹 System-Contratos
-Sistema corporativo de gestão de contratos com foco em regras de negócio, workflow e RBAC.
+* Flask | FastAPI | ASP.NET Core | Express
 
-- APIs estruturadas
-- Fluxo de contratos baseado em estados
-- Controle de permissões por perfil
-- Validações e segurança backend
+**Databases**
 
-🔗 https://github.com/Devmoises79/System-Contratos
+* PostgreSQL | MySQL | SQL Server | SQLite
 
----
+**Data & Automation**
 
-### 🔹 CRUD Produtos (.NET)
-API REST para gerenciamento de produtos.
+* Pandas | Matplotlib | Selenium | BeautifulSoup
 
-- ASP.NET Core
-- Entity Framework Core
-- SQLite
-- Swagger
+**DevOps & Tools**
 
-🔗 https://github.com/Devmoises79/Crud-Produtos
+* Git | GitHub | GitHub Actions (CI basics)
+
+**Messaging**
+
+* RabbitMQ (producers, consumers, async processing)
 
 ---
 
-### 🔹 RabbitMQ Playground
-Projeto de estudo de mensageria.
+## 🏗️ Architecture & Engineering Practices
 
-- Producer / Consumer
-- Processamento assíncrono
-- Introdução a event-driven systems
-
-🔗 https://github.com/Devmoises79/PrimeiraFilaRabbit
-
----
-
-## 📈 Foco atual
-
-- Arquitetura de sistemas backend
-- APIs escaláveis e bem estruturadas
-- Design de sistemas orientados a regras de negócio
-- Evolução em engenharia de software
+* Modular Monolith Architecture (domain-driven organization)
+* Layered Architecture (separation of concerns)
+* RBAC (Role-Based Access Control)
+* Workflow-driven systems (state-machine logic)
+* Event-driven concepts with message queues
+* Secure backend design (authentication, CSRF protection, input validation)
 
 ---
 
-## 📫 Contato
+## 🔐 Security & Networking (Fundamentals)
 
-🔗 LinkedIn: https://www.linkedin.com/in/moisés-aniceto-71042a251/
+* Basic usage of Burp Suite (web vulnerability testing)
+* Network scanning with Nmap
+* Traffic analysis with Wireshark
+* Understanding of HTTP/HTTPS, headers, and request/response lifecycle
 
 ---
 
+## ☁️ Cloud & Infrastructure (Basics)
 
+* Basic knowledge of AWS and Azure services
+* Understanding of core cloud concepts (compute, storage, networking)
+* Deployment and environment configuration concepts
+* Interest in observability (logging, monitoring, tracing)
+
+---
+
+## 📌 Featured Project
+
+### 🔹 ValidaPy
+
+A corporate contract management system designed with real backend engineering principles:
+
+* RBAC-based authorization system
+* Workflow/state-machine for contract lifecycle
+* Modular architecture with domain-based organization
+* Focus on scalability, maintainability, and security
+
+> This project reflects my approach to solving real-world backend problems using structured architecture and production-oriented design.
+
+---
+
+## 🌍 Languages
+
+* Portuguese: Native
+* English: Intermediate (Working Proficiency)
+* Spanish: Intermediate (B1/B2)
+
+---
+
+## 🎯 Goal
+
+I am seeking an opportunity as an Intern or Junior Backend Developer to contribute, learn, and grow in a production-oriented engineering environment.
+
+---
+
+## 📫 Contact
+
+* LinkedIn: https://www.linkedin.com/in/moisés-aniceto-71042a251
 
