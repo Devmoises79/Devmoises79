@@ -81,7 +81,7 @@ A corporate contract management system designed with real backend engineering pr
 * Modular architecture with domain-based organization
 * Focus on scalability, maintainability, and security
 
-> This project reflects my approach to solving real-world backend problems using structured architecture and production-oriented design.
+> This project reflects my approach to solving real-world backend problems using structured architecture and production-oriented design principles.
 
 ---
 
