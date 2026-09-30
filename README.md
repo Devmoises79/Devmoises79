@@ -4,7 +4,7 @@ I build robust, scalable, and maintainable backend systems focused on real-world
 
 ---
 
-## 🚀 About Me
+## About Me
 
 * Backend Developer focused on RESTful APIs and production-ready systems
 * Strong emphasis on code organization, security, and maintainability
