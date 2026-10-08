@@ -102,7 +102,7 @@ A backend-focused contract management system designed around business rules, acc
 
 **Stack:** Python · Flask · MySQL · JavaScript · SQL
 
-[View repository →](https://github.com/Devmoises79)
+[View repository →](https://github.com/Devmoises79/System-Contratos)
 
 ---
 
@@ -121,7 +121,7 @@ Real-time chat application developed with a backend-first approach.
 
 **Stack:** Python · FastAPI · WebSockets · SQLAlchemy · SQLite
 
-[View repository →](https://github.com/Devmoises79)
+[View repository →](https://github.com/Devmoises79/Conversation-Chat)
 
 ---
 
@@ -139,7 +139,7 @@ A parking management system developed to practice backend development, business 
 
 **Stack:** C# · .NET
 
-[View repository →](https://github.com/Devmoises79)
+[View repository →](https://github.com/Devmoises79/System-Estacionamento)
 
 ---
 
@@ -157,7 +157,7 @@ Product management API built with ASP.NET Core.
 
 **Stack:** C# · ASP.NET Core · Entity Framework Core · Swagger
 
-[View repository →](https://github.com/Devmoises79)
+[View repository →](https://github.com/Devmoises79/Crud-Produtos)
 
 ---
 
@@ -169,7 +169,7 @@ Agenda management application built with modern .NET technologies.
 
 The project also includes a basic CI workflow using GitHub Actions.
 
-[View repository →](https://github.com/Devmoises79)
+[View repository →](https://github.com/Devmoises79/CrudAgenda)
 
 ---
 
@@ -190,7 +190,7 @@ An application for managing ideas, developed as a practical project for explorin
 
 **Stack:** C# · .NET · Razor Pages · EF Core · PostgreSQL
 
-[View repository →](https://github.com/Devmoises79)
+[View repository →](https://github.com/Devmoises79/CrudAgenda)
 
 ---
 
